@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: ChangeLing
-middle_name: Lab
+first_name: ChangeLing Lab
+middle_name: 
 last_name: Language Change and Empirical Linguistics at CMU
 email: dmortens@cs.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

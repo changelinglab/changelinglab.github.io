@@ -7,6 +7,138 @@ year={2024},
 url={https://openreview.net/forum?id=jesKcQxQ7j},
 note={}
 }
+@inproceedings{zhou-etal-2024-constructions,
+    title = "Constructions Are So Difficult That {E}ven Large Language Models Get Them Right for the Wrong Reasons",
+    author = {Zhou, Shijia  and
+      Weissweiler, Leonie  and
+      He, Taiqi  and
+      Sch{\"u}tze, Hinrich  and
+      Mortensen, David R.  and
+      Levin, Lori},
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.336",
+    pages = "3804--3811",
+    abstract = "In this paper, we make a contribution that can be understood from two perspectives: from an NLP perspective, we introduce a small challenge dataset for NLI with large lexical overlap, which minimises the possibility of models discerning entailment solely based on token distinctions, and show that GPT-4 and Llama 2 fail it with strong bias. We then create further challenging sub-tasks in an effort to explain this failure. From a Computational Linguistics perspective, we identify a group of constructions with three classes of adjectives which cannot be distinguished by surface features. This enables us to probe for LLM{'}s understanding of these constructions in various ways, and we find that they fail in a variety of ways to distinguish between them, suggesting that they don{'}t adequately represent their meaning or capture the lexical properties of phrasal heads.",
+}
+
+@inproceedings{lu-etal-2024-improved,
+    title = "Improved Neural Protoform Reconstruction via Reflex Prediction",
+    author = "Lu, Liang  and
+      Wang, Jingzhi  and
+      Mortensen, David R.",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.762",
+    pages = "8683--8707",
+    abstract = "Protolanguage reconstruction is central to historical linguistics. The comparative method, one of the most influential theoretical and methodological frameworks in the history of the language sciences, allows linguists to infer protoforms (reconstructed ancestral words) from their reflexes (related modern words) based on the assumption of regular sound change. Not surprisingly, numerous computational linguists have attempted to operationalize comparative reconstruction through various computational models, the most successful of which have been supervised encoder-decoder models, which treat the problem of predicting protoforms given sets of reflexes as a sequence-to-sequence problem. We argue that this framework ignores one of the most important aspects of the comparative method: not only should protoforms be inferable from cognate sets (sets of related reflexes) but the reflexes should also be inferable from the protoforms. Leveraging another line of research{---}reflex prediction{---}we propose a system in which candidate protoforms from a reconstruction model are reranked by a reflex prediction model. We show that this more complete implementation of the comparative method allows us to surpass state-of-the-art protoform reconstruction methods on three of four Chinese and Romance datasets.",
+}
+
+@inproceedings{shim-etal-2024-phonotactic,
+    title = "Phonotactic Complexity across Dialects",
+    author = "Shim, Ryan Soh-Eun  and
+      Chang, Kalvin  and
+      Mortensen, David R.",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1115",
+    pages = "12734--12748",
+    abstract = "Received wisdom in linguistic typology holds that if the structure of a language becomes more complex in one dimension, it will simplify in another, building on the assumption that all languages are equally complex (Joseph and Newmeyer, 2012). We study this claim on a micro-level, using a tightly-controlled sample of Dutch dialects (across 366 collection sites) and Min dialects (across 60 sites), which enables a more fair comparison across varieties. Even at the dialect level, we find empirical evidence for a tradeoff between word length and a computational measure of phonotactic complexity from a LSTM-based phone-level language model{---}a result previously documented only at the language level. A generalized additive model (GAM) shows that dialects with low phonotactic complexity concentrate around the capital regions, which we hypothesize to correspond to prior hypotheses that language varieties of greater or more diverse populations show reduced phonotactic complexity. We also experiment with incorporating the auxiliary task of predicting syllable constituency, but do not find an increase in the strength of the negative correlation observed.",
+}
+
+@inproceedings{zouhar-etal-2024-pwesuite,
+    title = "{PWES}uite: Phonetic Word Embeddings and Tasks They Facilitate",
+    author = "Zouhar, Vil{\'e}m  and
+      Chang, Kalvin  and
+      Cui, Chenxuan  and
+      Carlson, Nate B.  and
+      Robinson, Nathaniel Romney  and
+      Sachan, Mrinmaya  and
+      Mortensen, David R.",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1168",
+    pages = "13344--13355",
+    abstract = "Mapping words into a fixed-dimensional vector space is the backbone of modern NLP. While most word embedding methods successfully encode semantic information, they overlook phonetic information that is crucial for many tasks. We develop three methods that use articulatory features to build phonetically informed word embeddings. To address the inconsistent evaluation of existing phonetic word embedding methods, we also contribute a task suite to fairly evaluate past, current, and future methods. We evaluate both (1) intrinsic aspects of phonetic word embeddings, such as word retrieval and correlation with sound similarity, and (2) extrinsic performance on tasks such as rhyme and cognate detection and sound analogies. We hope our task suite will promote reproducibility and inspire future phonetic embedding research.",
+}
+
+@inproceedings{mortensen-etal-2024-verbing,
+    title = "Verbing Weirds Language (Models): Evaluation of {E}nglish Zero-Derivation in Five {LLM}s",
+    author = {Mortensen, David R.  and
+      Izrailevitch, Valentina  and
+      Xiao, Yunze  and
+      Sch{\"u}tze, Hinrich  and
+      Weissweiler, Leonie},
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1508",
+    pages = "17359--17364",
+    abstract = "Lexical-syntactic flexibility, in the form of conversion (or zero-derivation) is a hallmark of English morphology. In conversion, a word with one part of speech is placed in a non-prototypical context, where it is coerced to behave as if it had a different part of speech. However, while this process affects a large part of the English lexicon, little work has been done to establish the degree to which language models capture this type of generalization. This paper reports the first study on the behavior of large language models with reference to conversion. We design a task for testing lexical-syntactic flexibility{---}the degree to which models can generalize over words in a construction with a non-prototypical part of speech. This task is situated within a natural language inference paradigm. We test the abilities of five language models{---}two proprietary models (GPT-3.5 and GPT-4), three open source model (Mistral 7B, Falcon 40B, and Llama 2 70B). We find that GPT-4 performs best on the task, followed by GPT-3.5, but that the open source language models are also able to perform it and that the 7-billion parameter Mistral displays as little difference between its baseline performance on the natural language inference task and the non-prototypical syntactic category task, as the massive GPT-4.",
+}
+
+@inproceedings{boldt-mortensen-2024-xferbench,
+    title = "{X}fer{B}ench: a Data-Driven Benchmark for Emergent Language",
+    author = "Boldt, Brendon  and
+      Mortensen, David",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.82",
+    doi = "10.18653/v1/2024.naacl-long.82",
+    pages = "1475--1489",
+    abstract = "In this paper, we introduce a benchmark for evaluating the overall quality of emergent languages using data-driven methods. Specifically, we interpret the notion of the {``}quality{''} of an emergent language as its similarity to human language within a deep learning framework. We measure this by using the emergent language as pretraining data for a downstream NLP tasks in human language{---}the better the downstream performance, the better the emergent language. We implement this benchmark as an easy-to-use Python package that only requires a text file of utterances from the emergent language to be evaluated. Finally, we empirically test the benchmark{'}s validity using human, synthetic, and emergent language baselines.",
+}
+
 
 @article{mortensen2023kuki,
   title={Kuki-Chin Phonology: An Overview},

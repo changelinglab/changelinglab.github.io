@@ -1,0 +1,967 @@
+@article{boldt2024review,
+title={A Review of the Applications of Deep Learning-Based Emergent Communication},
+author={Brendon Boldt and David R. Mortensen},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=jesKcQxQ7j},
+note={}
+}
+
+@article{mortensen2023kuki,
+  title={Kuki-Chin Phonology: An Overview},
+  author={Mortensen, David R},
+  journal={Himalayan Linguistics},
+  volume={22},
+  number={1},
+  year={2023}
+}
+
+@inproceedings{robinson2023african,
+title={{African} Substrates Rather Than {European} Lexifiers to Augment {African}-diaspora Creole Translation},
+author={Nathaniel Romney Robinson and Matthew Dean Stutzman and Stephen D. Richardson and David R Mortensen},
+booktitle={4th Workshop on African Natural Language Processing},
+year=2023,
+url={https://openreview.net/forum?id=YKUv4sSOom}
+}
+
+@inproceedings{chang2023automating,
+    title = "Automating Sound Change Prediction for Phylogenetic Inference: A {Tukanoan} Case Study",
+    author = "Chang, Kalvin  and
+      Robinson, Nathaniel  and
+      Cai, Anna  and
+      Chen, Ting  and
+      Zhang, Annie  and
+      Mortensen, David",
+    editor = "Tahmasebi, Nina  and
+      Montariol, Syrielle  and
+      Dubossarsky, Haim  and
+      Kutuzov, Andrey  and
+      Hengchen, Simon  and
+      Alfter, David  and
+      Periti, Francesco  and
+      Cassotti, Pierluigi",
+    booktitle = "Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.lchange-1.14",
+    doi = "10.18653/v1/2023.lchange-1.14",
+    pages = "129--142",
+    abstract = "We describe a set of new methods to partially automate linguistic phylogenetic inference given (1) cognate sets with their respective protoforms and sound laws, (2) a mapping from phones to their articulatory features and (3) a typological database of sound changes.We train a neural network on these sound change data to weight articulatory distances between phones and predict intermediate sound change steps between historical protoforms and their modern descendants, replacing a linguistic expert in part of a parsimony-based phylogenetic inference algorithm. In our best experiments on Tukanoan languages, this method produces trees with a Generalized Quartet Distance of 0.12 from a tree that used expert annotations, a significant improvement over other semi-automated baselines. We discuss potential benefits and drawbacks to our neural approach and parsimony-based tree prediction. We also experiment with a minimal generalization learner for automatic sound law induction, finding it less effective than sound laws from expert annotation. Our code is publicly available.",
+}
+
+@inproceedings{robinson2023chatgpt,
+    title = "{C}hat{GPT} {MT}: Competitive for High- (but Not Low-) Resource Languages",
+    author = "Robinson, Nathaniel  and
+      Ogayo, Perez  and
+      Mortensen, David R.  and
+      Neubig, Graham",
+    editor = "Koehn, Philipp  and
+      Haddow, Barry  and
+      Kocmi, Tom  and
+      Monz, Christof",
+    booktitle = "Proceedings of the Eighth Conference on Machine Translation",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.wmt-1.40",
+    doi = "10.18653/v1/2023.wmt-1.40",
+    pages = "392--418",
+    abstract = "Large language models (LLMs) implicitly learn to perform a range of language tasks, including machine translation (MT). Previous studies explore aspects of LLMs{'} MT capabilities. However, there exist a wide variety of languages for which recent LLM MT performance has never before been evaluated. Without published experimental evidence on the matter, it is difficult for speakers of the world{'}s diverse languages to know how and whether they can use LLMs for their languages. We present the first experimental evidence for an expansive set of 204 languages, along with MT cost analysis, using the FLORES-200 benchmark. Trends reveal that GPT models approach or exceed traditional MT model performance for some high-resource languages (HRLs) but consistently lag for low-resource languages (LRLs), under-performing traditional MT for 84.1{\%} of languages we covered. Our analysis reveals that a language{'}s resource level is the most important feature in determining ChatGPT{'}s relative ability to translate it, and suggests that ChatGPT is especially disadvantaged for LRLs and African languages.",
+}
+
+
+@inproceedings{ahia2023languages,
+    title = "Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models",
+    author = "Ahia, Orevaoghene  and
+      Kumar, Sachin  and
+      Gonen, Hila  and
+      Kasai, Jungo  and
+      Mortensen, David  and
+      Smith, Noah  and
+      Tsvetkov, Yulia",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.614",
+    doi = "10.18653/v1/2023.emnlp-main.614",
+    pages = "9904--9923",
+    abstract = "Language models have graduated from being research prototypes to commercialized products offered as web APIs, and recent works have highlighted the multilingual capabilities of these products. The API vendors charge their users based on usage, more specifically on the number of {``}tokens{''} processed or generated by the underlying language models. What constitutes a token, however, is training data and model dependent with a large variance in the number of tokens required to convey the same information in different languages. In this work, we analyze the effect of this non-uniformity on the fairness of an API{'}s pricing policy across languages. We conduct a systematic analysis of the cost and utility of OpenAI{'}s language model API on multilingual benchmarks in 22 typologically diverse languages. We show evidence that speakers of a large number of the supported languages are overcharged while obtaining poorer results. These speakers tend to also come from regions where the APIs are less affordable, to begin with. Through these analyses, we aim to increase transparency around language model APIs{'} pricing policies and encourage the vendors to make them more equitable.",
+}
+
+
+@inproceedings{weissweiler2023counting,
+    title = "Counting the Bugs in {C}hat{GPT}{'}s Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model",
+    author = "Weissweiler, Leonie  and
+      Hofmann, Valentin  and
+      Kantharuban, Anjali  and
+      Cai, Anna  and
+      Dutt, Ritam  and
+      Hengle, Amey  and
+      Kabra, Anubha  and
+      Kulkarni, Atharva  and
+      Vijayakumar, Abhishek  and
+      Yu, Haofei  and
+      Schuetze, Hinrich  and
+      Oflazer, Kemal  and
+      Mortensen, David",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.401",
+    doi = "10.18653/v1/2023.emnlp-main.401",
+    pages = "6508--6524",
+    abstract = "Large language models (LLMs) have recently reached an impressive level of linguistic capability, prompting comparisons with human language skills. However, there have been relatively few systematic inquiries into the linguistic capabilities of the latest generation of LLMs, and those studies that do exist (i) ignore the remarkable ability of humans to generalize, (ii) focus only on English, and (iii) investigate syntax or semantics and overlook other capabilities that lie at the heart of human language, like morphology. Here, we close these gaps by conducting the first rigorous analysis of the morphological capabilities of ChatGPT in four typologically varied languages (specifically, English, German, Tamil, and Turkish). We apply a version of Berko{'}s (1958) wug test to ChatGPT, using novel, uncontaminated datasets for the four examined languages. We find that ChatGPT massively underperforms purpose-built systems, particularly in English. Overall, our results{---}through the lens of morphology{---}cast a new light on the linguistic capabilities of ChatGPT, suggesting that claims of human-like language skills are premature and misleading.",
+}
+
+
+@inproceedings{feng2023calibrated,
+    title = "Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing",
+    author = "Feng, Yanlin  and
+      Pratapa, Adithya  and
+      Mortensen, David",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.1040",
+    doi = "10.18653/v1/2023.findings-emnlp.1040",
+    pages = "15550--15560",
+    abstract = "Ultra-fine entity typing plays a crucial role in information extraction by predicting fine-grained semantic types for entity mentions in text. However, this task poses significant challenges due to the massive number of entity types in the output space. The current state-of-the-art approaches, based on standard multi-label classifiers or cross-encoder models, suffer from poor generalization performance or inefficient inference speed. In this paper, we present CASENT, a seq2seq model designed for ultra-fine entity typing that predicts ultra-fine types with calibrated confidence scores. Our model takes an entity mention as input and employs constrained beam search to generate multiple types autoregressively. The raw sequence probabilities associated with the predicted types are then transformed into confidence scores using a novel calibration method. We conduct extensive experiments on the UFET dataset which contains over $10k$ types. Our method outperforms the previous state-of-the-art in terms of F1 score and calibration error, while achieving an inference speedup of over 50 times. Additionally, we demonstrate the generalization capabilities of our model by evaluating it in zero-shot and few-shot settings on five specialized domain entity typing datasets that are unseen during training. Remarkably, our model outperforms large language models with 10 times more parameters in the zero-shot setting, and when fine-tuned on 50 examples, it significantly outperforms ChatGPT on all datasets.",
+}
+
+@inproceedings{weissweiler2023construction,
+    title = "Construction Grammar Provides Unique Insight into Neural Language Models",
+    author = {Weissweiler, Leonie  and
+      He, Taiqi  and
+      Otani, Naoki  and
+      R. Mortensen, David  and
+      Levin, Lori  and
+      Sch{\"u}tze, Hinrich},
+    editor = "Bonial, Claire  and
+      Tayyar Madabushi, Harish",
+    booktitle = "Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)",
+    month = mar,
+    year = 2023,
+    address = "Washington, D.C.",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.cxgsnlp-1.10",
+    pages = "85--95",
+    abstract = "Construction Grammar (CxG) has recently been used as the basis for probing studies that have investigated the performance of large pretrained language models (PLMs) with respect to the structure and meaning of constructions. In this position paper, we make suggestions for the continuation and augmentation of this line of research. We look at probing methodology that was not designed with CxG in mind, as well as probing methodology that was designed for specific constructions. We analyse selected previous work in detail, and provide our view of the most important challenges and research questions that this promising new field faces.",
+}
+
+@inproceedings{kim2023transformed,
+    title = "Transformed Protoform Reconstruction",
+    author = "Kim, Young Min  and
+      Chang, Kalvin  and
+      Cui, Chenxuan  and
+      Mortensen, David R.",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-short.3",
+    doi = "10.18653/v1/2023.acl-short.3",
+    pages = "24--38",
+    abstract = "Protoform reconstruction is the task of inferring what morphemes or words appeared like in the ancestral languages of a set of daughter languages. Meloni et al (2021) achieved the state-of-the-art on Latin protoform reconstruction with an RNN-based encoder-decoder with attention model. We update their model with the state-of-the-art seq2seq model: the Transformer. Our model outperforms their model on a suite of different metrics on two different datasets: their Romance data of 8,000 cognates spanning 5 languages and a Chinese dataset (Hou 2004) of 800+ cognates spanning 39 varieties. We also probe our model for potential phylogenetic signal contained in the model. Our code is publicly available at \url{https://github.com/cmu-llab/acl-2023}.",
+}
+
+@inproceedings{mortensen2023generalized,
+    title = "Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation",
+    author = "Mortensen, David R.  and
+      Gulsen, Ela  and
+      He, Taiqi  and
+      Robinson, Nathaniel  and
+      Amith, Jonathan  and
+      Tjuatja, Lindia  and
+      Levin, Lori",
+    booktitle = "Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sigmorphon-1.7",
+    doi = "10.18653/v1/2023.sigmorphon-1.7",
+    pages = "58--67",
+    abstract = "Interlinear glossing provides a vital type of morphosyntactic annotation, both for linguists and language revitalists, and numerous conventions exist for representing it formally and computationally. Some of these formats are human readable; others are machine readable. Some are easy to edit with general-purpose tools. Few represent non-concatentative processes like infixation, reduplication, mutation, truncation, and tonal overwriting in a consistent and formally rigorous way (on par with affixation). We propose an annotation convention{\^a}€{''}Generalized Glossing Guidelines (GGG) that combines all of these positive properties using an Item-and-Process (IP) framework. We describe the format, demonstrate its linguistic adequacy, and compare it with two other interlinear glossed text annotation schemes.",
+}
+
+@inproceedings{karakasidis2023multilingual,
+  title={Multilingual TTS Accent Impressions for Accented ASR},
+  author={Karakasidis, Georgios and Robinson, Nathaniel and Getman, Yaroslav and Ogayo, Atieno and Al-Ghezi, Ragheb and Ayasi, Ananya and Watanabe, Shinji and Mortensen, David R and Kurimo, Mikko},
+  booktitle={International Conference on Text, Speech, and Dialogue},
+  pages={317--327},
+  year={2023},
+  organization={Springer}
+}
+
+@inproceedings{he2023sigmorefun,
+    title = "{S}ig{M}ore{F}un Submission to the {SIGMORPHON} Shared Task on Interlinear Glossing",
+    author = "He, Taiqi  and
+      Tjuatja, Lindia  and
+      Robinson, Nathaniel  and
+      Watanabe, Shinji  and
+      Mortensen, David R.  and
+      Neubig, Graham  and
+      Levin, Lori",
+    booktitle = "Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sigmorphon-1.22",
+    doi = "10.18653/v1/2023.sigmorphon-1.22",
+    pages = "209--216",
+    abstract = "In our submission to the SIGMORPHON 2023 Shared Task on interlinear glossing (IGT), we explore approaches to data augmentation and modeling across seven low-resource languages. For data augmentation, we explore two approaches: creating artificial data from the provided training data and utilizing existing IGT resources in other languages. On the modeling side, we test an enhanced version of the provided token classification baseline as well as a pretrained multilingual seq2seq model. Additionally, we apply post-correction using a dictionary for Gitksan, the language with the smallest amount of data. We find that our token classification models are the best performing, with the highest word-level accuracy for Arapaho and highest morpheme-level accuracy for Gitksan out of all submissions. We also show that data augmentation is an effective strategy, though applying artificial data pretraining has very different effects across both models tested.",
+}
+
+@inproceedings{robinson2022data,
+    title = "Data-adaptive Transfer Learning for Translation: A Case Study in {Haitian} and {Jamaican}",
+    author = "Robinson, Nathaniel  and
+      Hogan, Cameron  and
+      Fulda, Nancy  and
+      Mortensen, David R.",
+    booktitle = "Proceedings of the Fifth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2022)",
+    month = oct,
+    year = 2022,
+    address = "Gyeongju, Republic of Korea",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.loresmt-1.5",
+    pages = "35--42",
+    abstract = "Multilingual transfer techniques often improve low-resource machine translation (MT). Many of these techniques are applied without considering data characteristics. We show in the context of Haitian-to-English translation that transfer effectiveness is correlated with amount of training data and relationships between knowledge-sharing languages. Our experiments suggest that for some languages beyond a threshold of authentic data, back-translation augmentation methods are counterproductive, while cross-lingual transfer from a sufficiently related language is preferred. We complement this finding by contributing a rule-based French-Haitian orthographic and syntactic engine and a novel method for phonological embedding. When used with multilingual techniques, orthographic transformation makes statistically significant improvements over conventional methods. And in very low-resource Jamaican MT, code-switching with a transfer language for orthographic resemblance yields a 6.63 BLEU point advantage.",
+}
+
+@InProceedings{li2022asr2k,
+  auhor =        {Li, Xinjian and Metze, Florian and Mortensen, David R. and Black, Alan W. and Watanabe, Shinji},
+  title = 	 {{ASR2K}: Speech Recognition for Around 2000 Languages without Audio},
+  booktitle =    {Interspeech 2022},
+  year = 	 {2021},
+}
+
+@InProceedings{chang2022wikihan,
+  author = 	 {Kalvin Chang and Chenxuan Cui and Youngmin Kim and David R. Mortensen},
+  title = 	 {WikiHan: A New Comparative Dataset for {Chinese} Languages},
+  booktitle =	 {COLING 2022},
+  year =	 {2022}
+}
+
+@InProceedings{robinson2022tts,
+  author = 	 {Nathaniel Romney Robinson and Perez Ogayo and Swetha R. Gangu and David R. Mortensen and Shinji Watanabe},
+  title = 	 {When Is {TTS} Augmentation Through a Pivot Language Useful?},
+  booktitle =	 {Interspeech 2022},
+  year =	 {2022}
+}
+
+@InProceedings{li2022speech,
+  author = 	 {Xinjian Li and Florian Metze and David R. Mortensen and Alan W. Black and Shinji Watanabe},
+  title = 	 {Speech Recognition for Around 2000 Languages without Audio},
+  booktitle =	 {Interspeech 2022},
+  year =	 {2022}
+}
+
+@InProceedings{mortensen2022hmong,
+  author = 	 {David R. Mortensen and Xinyu Zhang and Chenxuan Cui and Katherine J. Zhang},
+  title = 	 {A {Hmong} Corpus with Elaborate Expression Annotations},
+  booktitle =	 {Proceedings of the Thirteenth International Conference
+                  on Language Resources and Evaluation ({LREC} 2022)},
+  year =	 {2022}
+}
+
+@InProceedings{li2022phone,
+  author = 	 {Xinjian Li and Florian Metze and David R. Mortensen and Alan W. Black and Shinji Watanabe},
+  title = 	 {Phone Inventories and Recognition for Every Language},
+  booktitle =	 {Proceedings of the Thirteenth International Conference
+                  on Language Resources and Evaluation ({LREC} 2022)},
+  year =	 {2022}
+}
+
+@Article{marr2022large,
+  author = 	 {Marr, Clayton and Mortensen, David},
+  title = 	 {Large-Scale Computerized Forward Reconstruction Yields New Perspectives in French Diachronic Phonology},
+  journal = 	 {Diachronica},
+  year = 	 {2022},
+}
+
+@inproceedings{li2022zero,
+    title = "Zero-shot Learning for Grapheme to Phoneme Conversion with Language Ensemble",
+    author = "Li, Xinjian  and
+      Metze, Florian  and
+      Mortensen, David  and
+      Watanabe, Shinji  and
+      Black, Alan",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.166",
+    doi = "10.18653/v1/2022.findings-acl.166",
+    pages = "2106--2115",
+    abstract = "Grapheme-to-Phoneme (G2P) has many applications in NLP and speech fields. Most existing work focuses heavily on languages with abundant training datasets, which limits the scope of target languages to less than 100 languages. This work attempts to apply zero-shot learning to approximate G2P models for all low-resource and endangered languages in Glottolog (about 8k languages). For any unseen target language, we first build the phylogenetic tree (i.e. language family tree) to identify top-$k$ nearest languages for which we have training sets. Then we run models of those languages to obtain a hypothesis set, which we combine into a confusion network to propose a most likely hypothesis as an approximation to the target language. We test our approach on over 600 unseen languages and demonstrate it significantly outperforms baselines.",
+}
+
+@inproceedings{cui2022learning,
+    title = "Learning the Ordering of Coordinate Compounds and Elaborate Expressions in {H}mong, {L}ahu, and {C}hinese",
+    author = "Cui, Chenxuan  and
+      Zhang, Katherine  and
+      Mortensen, David",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.268",
+    pages = "3656--3669",
+    abstract = "Coordinate compounds (CCs) and elaborate expressions (EEs) are coordinate constructions common in languages of East and Southeast Asia. Mortensen (2006) claims that (1) the linear ordering of EEs and CCs in Hmong, Lahu, and Chinese can be predicted via phonological hierarchies and (2) that these phonological hierarchies lack a clear phonetic rationale. These claims are signficant because morphosyntax has often been seen as in a feed-forward relationship with phonology, and phonological generalizations have often been assumed to be phonetically {``}natural{''}. We investigate whether the ordering of CCs and EEs can be learned empirically and whether computational models (classifiers and sequence-labeling models) learn unnatural hierarchies similar to those posited by Mortensen (2006). We find that decision trees and SVMs learn to predict the order of CCs/EEs on the basis of phonology, beating strong baselines for all three languages, with DTs learning hierarchies strikingly similar to those proposed by Mortensen. However, we also find that a neural sequence labeling model is able to learn the ordering of elaborate expressions in Hmong very effectively without using any phonological information. We argue that EE ordering can be learned through two independent routes: phonology and lexical distribution, presenting a more nuanced picture than previous work.",
+}
+
+@inproceedings{bharadwaj2016phonologically,
+  title =	 "Phonologically Aware Neural Model for Named Entity
+                  Recognition in Low Resource Transfer Settings",
+  author =	 "Bharadwaj, Akash and Mortensen, David and Dyer,
+                  Chris and Carbonell, Jaime",
+  booktitle =	 "Proceedings of the 2016 Conference on Empirical
+                  Methods in Natural Language Processing",
+  month =	 nov,
+  year =	 2016,
+  address =	 "Austin, Texas",
+  publisher =	 "Association for Computational Linguistics",
+  url =		 "https://www.aclweb.org/anthology/D16-1153",
+  doi =		 "10.18653/v1/D16-1153",
+  pages =	 "1462--1472",
+}
+
+@inproceedings{chaudhary2018adapting,
+  title =	 "Adapting Word Embeddings to New Languages with
+                  Morphological and Phonological Subword
+                  Representations",
+  author =	 "Chaudhary, Aditi and Zhou, Chunting and Levin, Lori
+                  and Neubig, Graham and Mortensen, David R.  and
+                  Carbonell, Jaime",
+  booktitle =	 "Proceedings of the 2018 Conference on Empirical
+                  Methods in Natural Language Processing",
+  month =	 oct # "-" # nov,
+  year =	 2018,
+  address =	 "Brussels, Belgium",
+  publisher =	 "Association for Computational Linguistics",
+  url =		 "https://www.aclweb.org/anthology/D18-1366",
+  pages =	 "3285--3295",
+  abstract =	 "Much work in Natural Language Processing (NLP) has
+                  been for resource-rich languages, making
+                  generalization to new, less-resourced languages
+                  challenging. We present two approaches for improving
+                  generalization to low-resourced languages by
+                  adapting continuous word representations using
+                  linguistically motivated subword units: phonemes,
+                  morphemes and graphemes. Our method requires neither
+                  parallel corpora nor bilingual dictionaries and
+                  provides a significant gain in performance over
+                  previous methods relying on these resources. We
+                  demonstrate the effectiveness of our approaches on
+                  Named Entity Recognition for four languages, namely
+                  Uyghur, Turkish, Bengali and Hindi, of which Uyghur
+                  and Bengali are low resource languages, and also
+                  perform experiments on Machine
+                  Translation. Exploiting subwords with transfer
+                  learning gives us a boost of +15.2 NER F1 for Uyghur
+                  and +9.7 F1 for Bengali. We also show improvements
+                  in the monolingual setting where we achieve (avg.)
+                  +3 F1 and (avg.) +1.35 BLEU.",
+}
+
+@InProceedings{chaudhary2019cmu,
+    title = "{CMU}-01 at the {SIGMORPHON} 2019 Shared Task on Crosslinguality and Context in Morphology",
+    author = "Chaudhary, Aditi  and
+      Salesky, Elizabeth  and
+      Bhat, Gayatri  and
+      Mortensen, David R.  and
+      Carbonell, Jaime  and
+      Tsvetkov, Yulia",
+    booktitle = "Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-4208",
+    doi = "10.18653/v1/W19-4208",
+    pages = "57--70",
+    abstract = "This paper presents the submission by the CMU-01 team to the SIGMORPHON 2019 task 2 of Morphological Analysis and Lemmatization in Context. This task requires us to produce the lemma and morpho-syntactic description of each token in a sequence, for 107 treebanks. We approach this task with a hierarchical neural conditional random field (CRF) model which predicts each coarse-grained feature (eg. POS, Case, etc.) independently. However, most treebanks are under-resourced, thus making it challenging to train deep neural models for them. Hence, we propose a multi-lingual transfer training regime where we transfer from multiple related languages that share similar typology.",
+}
+
+@InProceedings{chaudhary2020automatic,
+  author = 	 {Aditi Chaudhary and Antonios Anastasopoulos and Adithya Pratapa and David R. Mortensen and Zaid Sheikh and Yulia Tsvetkov and Graham Neubig},
+  title = 	 {Automatic Extraction of Rules Governing Morphological Agreement},
+  booktitle =	 {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  year =	 {2020}
+}
+
+@article{francis2021quantifying,
+    author = {Francis, David and Rabinovich, Ella and Samir, Farhan and Mortensen, David and Stevenson, Suzanne},
+    title = "{Quantifying Cognitive Factors in Lexical Decline}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {9},
+    pages = {1529-1545},
+    year = {2021},
+    month = {12},
+    abstract = "{We adopt an evolutionary view on language change in which cognitive factors (in addition to social ones) affect the fitness of words and their success in the linguistic ecosystem. Specifically, we propose a variety of psycholinguistic factors—semantic, distributional, and phonological—that we hypothesize are predictive of lexical decline, in which words greatly decrease in frequency over time. Using historical data across three languages (English, French, and German), we find that most of our proposed factors show a significant difference in the expected direction between each curated set of declining words and their matched stable words. Moreover, logistic regression analyses show that semantic and distributional factors are significant in predicting declining words. Further diachronic analysis reveals that declining words tend to decrease in the diversity of their lexical contexts over time, gradually narrowing their ‘ecological niches’.}",
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00441},
+    url = {https://doi.org/10.1162/tacl\_a\_00441},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00441/1979747/tacl\_a\_00441.pdf},
+}
+
+@InProceedings{li2020toward,
+  author = 	 {Xinjian Li and Siddharth Dalmia and David R.
+                  Mortensen and Juncheng Li and Alan Black and Florian
+                  Metze},
+  title = 	 {Towards Zero-shot Learning for Automatic Phonemic
+                  Transcription},
+  booktitle =	 {Proceedings of the Thirty-Fourth AAAI Conference on
+                  Artificial Intelligence},
+  year =	 {2020}
+}
+
+@InProceedings{li2020universal,
+  author =	 {Xinjian Li and Siddharth Dalmia and Juncheng Li and
+                  Matthew Lee and Patrick Littell and Jiali Yao and
+                  Antonios Anastasopoulos and David R. Mortensen and
+                  Graham Neubig and Alan W Black and Florian Metze},
+  title =	 {Universal Phone Recognition with a Multilingual
+                  Allophone System},
+  booktitle =	 {ICASSP 2020},
+  year =	 {2020}
+}
+
+@InProceedings{li2021multilingual,
+  author = 	 {Li, Xinjian and Mortensen, David R and Metze, Florian and Black, Alan W.},
+  title = 	 {Multilingual phonetic dataset for low resource speech recognition},
+  booktitle =	 {ICASSP 2021},
+  year =	 {2021}
+}
+
+@inproceedings{littell2016bridge,
+  title =	 "Bridge-Language Capitalization Inference in Western
+                  {I}ranian: {S}orani, {K}urmanji, Zazaki, and
+                  {T}ajik",
+  author =	 "Littell, Patrick and Mortensen, David R.  and Goyal,
+                  Kartik and Dyer, Chris and Levin, Lori",
+  booktitle =	 "Proceedings of the Tenth International Conference on
+                  Language Resources and Evaluation ({LREC} 2016)",
+  month =	 may,
+  year =	 2016,
+  address =	 "Portoro{\v{z}}, Slovenia",
+  publisher =	 "European Language Resources Association (ELRA)",
+  url =		 "https://www.aclweb.org/anthology/L16-1529",
+  pages =	 "3318--3324",
+  abstract =	 "In Sorani Kurdish, one of the most useful
+                  orthographic features in named-entity recognition
+                  {--} capitalization {--} is absent, as the
+                  language{'}s Perso-Arabic script does not make a
+                  distinction between uppercase and lowercase
+                  letters. We describe a system for deriving an
+                  inferred capitalization value from closely related
+                  languages by phonological similarity, and illustrate
+                  the system using several related Western Iranian
+                  languages.",
+}
+
+@inproceedings{littell2016named,
+  title =	 "Named Entity Recognition for Linguistic Rapid
+                  Response in Low-Resource Languages: {S}orani
+                  {K}urdish and {T}ajik",
+  author =	 "Littell, Patrick and Goyal, Kartik and Mortensen,
+                  David R.  and Little, Alexa and Dyer, Chris and
+                  Levin, Lori",
+  booktitle =	 "Proceedings of {COLING} 2016, the 26th International
+                  Conference on Computational Linguistics: Technical
+                  Papers",
+  month =	 dec,
+  year =	 2016,
+  address =	 "Osaka, Japan",
+  publisher =	 "The COLING 2016 Organizing Committee",
+  url =		 "https://www.aclweb.org/anthology/C16-1095",
+  pages =	 "998--1006",
+  abstract =	 "This paper describes our construction of
+                  named-entity recognition (NER) systems in two
+                  Western Iranian languages, Sorani Kurdish and Tajik,
+                  as a part of a pilot study of {``}Linguistic Rapid
+                  Response{''} to potential emergency humanitarian
+                  relief situations. In the absence of large annotated
+                  corpora, parallel corpora, treebanks, bilingual
+                  lexica, etc., we found the following to be
+                  effective: exploiting distributional regularities in
+                  monolingual data, projecting information across
+                  closely related languages, and utilizing human
+                  linguist judgments. We show promising results on
+                  both a four-month exercise in Sorani and a two-day
+                  exercise in Tajik, achieved with minimal annotation
+                  costs.",
+}
+
+@inproceedings{littell2017uriel,
+  title =	 "{URIEL} and lang2vec: Representing languages as
+                  typological, geographical, and phylogenetic vectors",
+  author =	 "Littell, Patrick and Mortensen, David R.  and Lin,
+                  Ke and Kairis, Katherine and Turner, Carlisle and
+                  Levin, Lori",
+  booktitle =	 "Proceedings of the 15th Conference of the {E}uropean
+                  Chapter of the Association for Computational
+                  Linguistics: Volume 2, Short Papers",
+  month =	 apr,
+  year =	 2017,
+  address =	 "Valencia, Spain",
+  publisher =	 "Association for Computational Linguistics",
+  url =		 "https://www.aclweb.org/anthology/E17-2002",
+  pages =	 "8--14",
+  abstract =	 "We introduce the URIEL knowledge base for massively
+                  multilingual NLP and thelang2vec utility, which
+                  provides information-rich vector identifications
+                  oflanguages drawn from typological, geographical,
+                  and phylogenetic databases andnormalized to have
+                  straightforward and consistent formats, naming,
+                  andsemantics. The goal of URIEL and lang2vec is to
+                  enable multilingual NLP,especially on less-resourced
+                  languages and make possible types of
+                  experiments(especially but not exclusively related
+                  to NLP tasks) that are otherwisedifficult or
+                  impossible due to the sparsity and
+                  incommensurability of the datasources. lang2vec
+                  vectors have been shown to reduce perplexity in
+                  multilinguallanguage modeling, when compared to
+                  one-hot language identification vectors.",
+}
+
+@Article{littell2018ariel,
+  author =	 {Patrick Littell and Tian Tian and Ruochen Xu and
+                  Zaid Sheikh and David Mortensen and Lori Levin and
+                  Francis Tyers and Hiroaki Hayashi and Graham Horwood
+                  and Steve Sloto and Emily Tagtow and Alan Black and
+                  Yiming Yang and Teruko Mitamura and Eduard Hovy},
+  title =	 {The {ARIEL-CMU} situation frame detection pipeline
+                  for {LoReHLT16}: a model translation approach},
+  journal =	 {Machine Translation},
+  year =	 2018,
+  volume =	 32,
+  number =	 {1--2},
+  pages =	 {105--126},
+  doi =		 {10.1007/s10590-017-9205-3an}
+}
+
+@inproceedings{littell2018parser,
+  title =	 "Parser combinators for {T}igrinya and {O}romo
+                  morphology",
+  author =	 "Littell, Patrick and McCoy, Tom and Han, Na-Rae and
+                  Rijhwani, Shruti and Sheikh, Zaid and Mortensen,
+                  David and Mitamura, Teruko and Levin, Lori",
+  booktitle =	 "Proceedings of the 11th Language Resources and
+                  Evaluation Conference",
+  month =	 may,
+  year =	 2018,
+  address =	 "Miyazaki, Japan",
+  publisher =	 "European Language Resource Association",
+  url =		 "https://www.aclweb.org/anthology/L18-1611",
+}
+
+@InProceedings{marr2020computerized,
+  author = 	 {Clayton Marr and David R. Mortensen},
+  title = 	 {Computerized Forward Reconstruction for Analysis in Diachronic Phonology, and {Latin} to {French} Reflex Prediction},
+  booktitle =	 {1st Workshop on Language Technologies for Historical and Ancient LAnguages (LT4HALA)},
+  year =	 {2020}
+}
+
+@InProceedings{memon2020characterizing,
+  author = 	 {Shahan Ali Memon and Aman Tyagi and David R. Mortensen and Kathleen M Carley},
+  title = 	 {Characterizing Sociolinguistic Variation in the Competing Vaccination Communities},
+  booktitle =	 {Proceedings of the International Conference SBP-BRiMS 2020},
+  editor =       {Halil Bisgin and Ayaz Hyder and Chris Dancy and Robert Thomson},
+  address =      {Washington DC},
+  publisher =    {Springer},
+  year =	 {2020}
+}
+
+@Article{mortensen20002langue,
+  author =	 {David R. Mortensen},
+  title =	 {Review of \emph{Les langue {Hmong-Mjen}: phonologie
+                  historique} by {Barbara Niederer}},
+  journal =	 {Linguistics of the Tibeto-Burman Area},
+  year =	 2002,
+  volume =	 25,
+  number =	 2,
+  pages =	 {243--245}
+}
+
+@Article{mortensen2003baheng,
+  author =	 {David R. Mortensen},
+  title =	 {Review of \emph{Baheng Yu Yanjiu} [research on the
+                  {Pa-Hng} language] by {Mao Zongwu} and {Li Yunbing}},
+  journal =	 {Linguistics of the Tibeto-Burman Area},
+  year =	 2003,
+  volume =	 26,
+  number =	 1,
+  pages =	 {123--131}
+}
+
+@InProceedings{mortensen2004emergence,
+  author =	 {David R. Mortensen},
+  title =	 {The emergence of dorsal stops after high vowels in
+                  {Huishu}},
+  booktitle =	 {Proceedings of the Thirtieth Annual Meeting of the
+                  Berkeley Linguistics Society (BLS 30)},
+  year =	 2004,
+  pages =	 {292--303}
+}
+
+@Misc{mortensen2011hsspesw,
+  author =	 {David R. Mortensen},
+  title =	 {{HsSPE}},
+  year =	 2011,
+  note =	 {Haskell library implementing SPE-style rule-based
+                  phonology},
+  url =		 {https://github.com/dmort27/HsSPE}
+}
+
+@Article{mortensen2011sorbung,
+  author =	 {Mortensen, David R. and Keogh, Jennifer},
+  title =	 {{Sorbung}, an Undescribed Language of {Manipur}: Its
+                  Phonology and Place in {Tibeto-Burman}},
+  journal =	 {Journal of the Southeast Asian Linguistics Society},
+  year =	 2012,
+  volume =	 4,
+  number =	 1,
+  pages =	 {62--114}
+}
+
+@Misc{mortensen2011webcomparatorsw,
+  author =	 {David R. Mortensen},
+  title =	 {{Web Comparator}},
+  year =	 2011,
+  note =	 {A web-based application for organizing and analyzing
+                  comparative lexical databases. Used in the
+                  production of ``Emergence of Obstruents'' and
+                  ``Proto-Tangkhulic Rhymes''},
+  url =		 {https://github.com/dmort27/WebComparator}
+}
+
+@Article{mortensen2012emergence,
+  author =	 {Mortensen, David R.},
+  title =	 {The Emergence of Obstruents after High Vowels},
+  journal =	 {Diachronica},
+  year =	 2012,
+  volume =	 29,
+  number =	 4,
+  pages =	 {434--470},
+  doi =		 {10.1075/dia.29.4.02mor}
+}
+
+@Misc{mortensen2012netspesw,
+  author =	 {David R. Mortensen},
+  title =	 {{NetSPE}},
+  year =	 2012,
+  note =	 {A web-based application for exploring rule-based
+                  analyses of phonological data},
+  url =		 {https://github.com/dmort27/NetSPE}
+}
+
+@InProceedings{mortensen2013lexical,
+  author =	 {David R. Mortensen},
+  title =	 {Lexical Prefixes and {Tibeto-Burman} Laryngeal
+                  Contrasts},
+  booktitle =	 {Proceedings of the Thirty-Seventh Annual Meeting of
+                  the Berkeley Linguistics Society (BLS 37)},
+  year =	 2013,
+  pages =	 {292–303}
+}
+
+@Article{mortensen2013reconstruction,
+  author =	 {Mortensen, David R. and Miller, James A.},
+  title =	 {A Reconstruction of {Proto-Tangkhulic} Rhymes},
+  journal =	 {Linguistics of the Tibeto-Burman Area },
+  year =	 2013,
+  volume =	 36,
+  number =	 1,
+  pages =	 {1--32}
+}
+
+@Article{mortensen2013tonally,
+  author =	 {Mortensen, David R.},
+  title =	 {Tonally Conditioned Vowel Raising in {Shuijingping
+                  Mang}},
+  journal =	 {Journal of {East Asian} Linguistics},
+  year =	 2013,
+  volume =	 22,
+  number =	 3,
+  pages =	 {189--216},
+  doi =		 {10.1007/s10831-013-9102-6}
+}
+
+@inproceedings{mortensen2016panphon,
+  title =	 "{P}an{P}hon: A Resource for Mapping {IPA} Segments
+                  to Articulatory Feature Vectors",
+  author =	 "Mortensen, David R.  and Littell, Patrick and
+                  Bharadwaj, Akash and Goyal, Kartik and Dyer, Chris
+                  and Levin, Lori",
+  booktitle =	 "Proceedings of {COLING} 2016, the 26th International
+                  Conference on Computational Linguistics: Technical
+                  Papers",
+  month =	 dec,
+  year =	 2016,
+  address =	 "Osaka, Japan",
+  publisher =	 "The COLING 2016 Organizing Committee",
+  url =		 "https://www.aclweb.org/anthology/C16-1328",
+  pages =	 "3475--3484",
+  abstract =	 "This paper contributes to a growing body of evidence
+                  that{---}when coupled with appropriate
+                  machine-learning techniques{--}linguistically
+                  motivated, information-rich representations can
+                  outperform one-hot encodings of linguistic data. In
+                  particular, we show that phonological features
+                  outperform character-based models. PanPhon is a
+                  database relating over 5,000 IPA segments to 21
+                  subsegmental articulatory features. We show that
+                  this database boosts performance in various
+                  NER-related tasks. Phonologically aware, neural CRF
+                  models built on PanPhon features are able to perform
+                  better on monolingual Spanish and Turkish NER tasks
+                  that character-based models. They have also been
+                  shown to work well in transfer models (as between
+                  Uzbek and Turkish). PanPhon features also contribute
+                  measurably to Orthography-to-IPA conversion tasks.",
+}
+
+@Misc{mortensen2016panphonsw,
+  author =	 {David R. Mortensen},
+  title =	 {{PanPhon}},
+  year =	 2016,
+  note =	 {Articulatory feature extractor and library},
+  url =		 {https://github.com/dmort27/NetSPE}
+}
+
+@InCollection{mortensen2017hmong,
+  author =	 "David R. Mortensen",
+  editor =	 "Mark Aronoff",
+  title =	 "{Hmong-Mien} Languages",
+  booktitle =	 "Oxford Research Encyclopedia of Linguistics",
+  year =	 2017,
+  month =	 05,
+  publisher =	 "Oxford University Press",
+  address =	 "New York",
+  url =
+                  "https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-341"
+}
+
+@InCollection{mortensen2017hmongmienbib,
+  title =	 "{Hmong-Mien} Languages",
+  booktitle =	 "Oxford Bibliographies in Linguistics",
+  year =	 2017,
+  author =	 "David R. Mortensen",
+  editor =	 "Mark Aronoff",
+  publisher =	 "Oxford University Press",
+  address =	 "New York",
+  url =
+                  "https://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0173.xml"
+}
+
+@inproceedings{mortensen2018epitran,
+  title =	 "{E}pitran: Precision {G}2{P} for Many Languages",
+  author =	 "Mortensen, David R.  and Dalmia, Siddharth and
+                  Littell, Patrick",
+  booktitle =	 "Proceedings of the 11th Language Resources and
+                  Evaluation Conference",
+  month =	 may,
+  year =	 2018,
+  address =	 "Miyazaki, Japan",
+  publisher =	 "European Language Resource Association",
+  url =		 "https://www.aclweb.org/anthology/L18-1429",
+}
+
+@Misc{mortensen2018epitransw,
+  author =	 {David R. Mortensen},
+  title =	 {{Epitran}},
+  year =	 2018,
+  note =	 {Precision orthography-to-IPA conversion for 65
+                  languages},
+  url =		 {https://github.com/dmort27/epitran}
+}
+
+@Misc{mortensen2018mstemsw,
+  author =	 {David R. Mortensen},
+  title =	 {{MStem}},
+  url =		 {https://github.com/dmort27/mstem},
+  year =	 2018,
+  note =	 {Python multilingual morphological stemming framework
+                  and stemmer collection}
+}
+
+@InCollection{mortensen2019hmong,
+  author =	 {Mortensen, David R.},
+  title =	 {{Hmong} ({Mong Leng})},
+  address =	 {Berlin, Boston},
+  booktitle =	 {The {Mainland} {Southeast} {Asia} Linguistic Area},
+  isbn =	 {978-3-11-040176-9},
+  url =		 {https://www.degruyter.com/view/product/433901},
+  language =	 {ENGL},
+  urldate =	 {2019-06-16},
+  publisher =	 {De Gruyter Mouton},
+  editor =	 {Vittrant, Alice and Watkins, Justin},
+  year =	 2019,
+  doi =		 {10.1515/9783110401981},
+  keywords =	 {Genetic Affiliation, Language Contact, Mainland
+                  Southeast Asia}
+}
+
+@Misc{mortensen2019indomorphsw,
+  author =	 {David R. Mortensen and Jong Hyuk Park},
+  title =	 {{IndoMorph}},
+  url =		 {https://github.com/dmort27/indomorph},
+  year =	 2019,
+  note =	 {Collection of Foma FST morphological analyzers for
+                  languages of the Indian subcontinent}
+}
+
+@InProceedings{mortensen2020allovera,
+  author =	 {David R. Mortensen and Xinjian Li and Patrick
+                  Littell and Alexis Michaud and Shruti Rijhwani and
+                  Antonios Anastasopoulos and Alan W. Black and
+                  Florian Metze and Graham Neubig},
+  title =	 {{AlloVera}: A Multilingual Allophone Database},
+  booktitle =	 {Proceedings of the Twelfth International Conference
+                  on Language Resources and Evaluation ({LREC} 2020)},
+  year =	 2020
+}
+
+@article{mortensen2021east,
+   author = "Mortensen, David R. and Picone, Jordan",
+   title = "{East} {Tusom}: A phonetic and phonological sketch of a largely undocumented Tangkhulic language", 
+   journal= "Linguistics of the Tibeto-Burman Area",
+   year = "2021",
+   volume = "44",
+   number = "2",
+   pages = "168-196",
+   doi = "https://doi.org/10.1075/ltba.21009.mor",
+   url = "https://www.jbe-platform.com/content/journals/10.1075/ltba.21009.mor",
+   publisher = "John Benjamins",
+   issn = "0731-3500",
+   type = "Journal Article",
+   abstract = "East Tusom is a Tibeto-Burman language of Manipur, India, belonging to the Tangkhulic group. While it shares some innovations with the other Tangkhulic languages, it differs markedly from “Standard Tangkhul” (which is based on the speech of Ukhrul town). Past documentation is limited to a small set of hastily transcribed forms in a comparative reconstruction of Tangkhulic rhymes (Mortensen \& Miller 2013; Mortensen 2012). This paper presents the first substantial sketch of an aspect of the language: its (descriptive) phonetics and phonology. The data are based on recordings of an extensive wordlist (730 items) and one short text, all from one fluent native speaker in her mid-twenties. We present the phonetic inventory of East Tusom and a phonemicization, with exhaustive examples. We also present an overview of the major phonological patterns and generalizations in the language. Of special interest are a “placeless nasal” that is realized as nasalization on the preceding vowel unless it is followed by a consonant, and numerous plosive-fricative clusters (where the fricative is roughly homorganic with the following vowel) that have developed from historical aspirated plosives. A complete wordlist, organized by gloss and semantic field, is provided as appendices.",
+  }
+
+@inproceedings{mortensen2021tusom2021,
+  author={David R. Mortensen and Jordan Picone and Xinjian Li and Kathleen Siminyu},
+  title={{Tusom2021: A Phonetically Transcribed Speech Dataset from an Endangered Language for Universal Phone Recognition Experiments}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={3660--3664},
+  doi={10.21437/Interspeech.2021-1435}
+}
+
+@inproceedings{pratapa2021evaluating,
+    title = "Evaluating the Morphosyntactic Well-formedness of Generated Texts",
+    author = "Pratapa, Adithya  and
+      Anastasopoulos, Antonios  and
+      Rijhwani, Shruti  and
+      Chaudhary, Aditi  and
+      Mortensen, David R.  and
+      Neubig, Graham  and
+      Tsvetkov, Yulia",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.570",
+    doi = "10.18653/v1/2021.emnlp-main.570",
+    pages = "7131--7150",
+    abstract = "Text generation systems are ubiquitous in natural language processing applications. However, evaluation of these systems remains a challenge, especially in multilingual settings. In this paper, we propose L{'}AMBRE {--} a metric to evaluate the morphosyntactic well-formedness of text using its dependency parse and morphosyntactic rules of the language. We present a way to automatically extract various rules governing morphosyntax directly from dependency treebanks. To tackle the noisy outputs from text generation systems, we propose a simple methodology to train robust parsers. We show the effectiveness of our metric on the task of machine translation through a diachronic study of systems translating into morphologically-rich languages.",
+}
+
+@Misc{mortensen2022wfst4strsw,
+  author =	 {David R. Mortensen},
+  title =	 {Wfst4Str},
+  year =	 {2022},
+  note =	 {Rust/Python library for working with strings using weighted finite state transducers},
+  url = 	 {http://github.com/dmort27/wfst4str}
+}
+
+@InProceedings{ryskina2020where,
+  author = 	 {Ryskina, Maria and Rabinovich, Ella and Berg-Kirkpatrick, Taylor and Mortensen, David R.  and Tsvetkov, Yulia},
+  title = 	 {Where New Words Are Born: Distributional Semantic Analysis of Neologisms and Their Semantic Neighborhoods},
+  booktitle =	 {Proceedings of the Society for Computation in Linguistics},
+  year =	 {2020},
+  volume =	 {3}
+}
+
+@inproceedings{siminyu2021phoneme,
+  author={Kathleen Siminyu and Xinjian Li and Antonios Anastasopoulos and David R. Mortensen and Michael R. Marlo and Graham Neubig},
+  title={{Phoneme Recognition Through Fine Tuning of Phonetic Representations: A Case Study on Luhya Language Varieties}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={271--275},
+  doi={10.21437/Interspeech.2021-1434}
+}
+
+@InProceedings{sun2021ranking,
+  author = 	 {Jimin Sun and Hwijeen Ahn and Chan Young Park and Yulia Tsvetkov and David R. Mortensen},
+  title = 	 {Ranking Transfer Languages with Pragmatically-Motivated Features for Multilingual Sentiment Analysis},
+  booktitle =	 {EACL 2021},
+  year =	 {2021}
+}
+
+@inproceedings{tsvetkov2016polyglot,
+  title =	 "Polyglot Neural Language Models: A Case Study in
+                  Cross-Lingual Phonetic Representation Learning",
+  author =	 "Tsvetkov, Yulia and Sitaram, Sunayana and Faruqui,
+                  Manaal and Lample, Guillaume and Littell, Patrick
+                  and Mortensen, David and Black, Alan W and Levin,
+                  Lori and Dyer, Chris",
+  booktitle =	 "Proceedings of the 2016 Conference of the North
+                  {A}merican Chapter of the Association for
+                  Computational Linguistics: Human Language
+                  Technologies",
+  month =	 jun,
+  year =	 2016,
+  address =	 "San Diego, California",
+  publisher =	 "Association for Computational Linguistics",
+  url =		 "https://www.aclweb.org/anthology/N16-1161",
+  doi =		 "10.18653/v1/N16-1161",
+  pages =	 "1357--1366",
+}
+
+@Article{vercellotti2012classification,
+  author =	 {Vercellotti, Mary Lou and Mortensen, David R.},
+  title =	 {A Classification of Compounding in {American Sign
+                  Language}: an Evaluation of the {Bisetto} and
+                  {Scalise} Framework},
+  journal =	 {Morphology},
+  year =	 2012,
+  volume =	 22,
+  number =	 4,
+  pages =	 {545--579},
+  doi =		 {10.1007/s11525-012-9205-1}
+}
+
+@inproceedings{yan2021differentiable,
+  author={Brian Yan and Siddharth Dalmia and David R. Mortensen and Florian Metze and Shinji Watanabe},
+  title={{Differentiable Allophone Graphs for Language-Universal Speech Recognition}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={2471--2475},
+  doi={10.21437/Interspeech.2021-1944}
+}

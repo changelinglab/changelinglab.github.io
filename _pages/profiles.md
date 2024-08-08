@@ -30,7 +30,7 @@ profiles:
     content: about_kwanghee.md
     image_circular: true
     more_info: >
-      <p><strong>Masters Student</strong></p>
+      <p><strong>Masters Student (joint with WAVLab)</strong></p>
   - align: right
     image: liang-lu.jpg
     content: about_liang.md

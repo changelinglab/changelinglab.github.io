@@ -247,6 +247,7 @@ exclude:
   - readme_preview/
   - vendor
   - about_brendon.md
+  - cv.md
 keep_files:
   - CNAME
   - .nojekyll

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Lexical Change
+description: Corpus approaches to changes in lexicons
+img: /assets/img/basel-sky-proj.jpg
 importance: 4
-category: fun
+category: diachronic
 ---
 
 Every project has a beautiful feature showcase page.

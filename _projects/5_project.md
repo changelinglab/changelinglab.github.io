@@ -1,13 +1,15 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: XferBench
+description: Evaluating Emergent Communication Systems with Downstream Tasks
+img: assets/img/aareschlucht2-proj.jpg
+importance: 1
+category: emergent
 ---
 
-Every project has a beautiful feature showcase page.
+Link to paper and provide future plans.
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -77,4 +79,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

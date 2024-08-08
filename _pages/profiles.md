@@ -7,6 +7,15 @@ nav: true
 nav_order: 7
 
 profiles:
+  - align: left
+    image: david-mortensen.jpg
+    content: about_david.md
+    image_circular: true
+    more_info: >
+      <p><strong>Assistant Research Professor</strong></p>
+      <p>GHC 5407</p>
+      <p>5000 Forbes Ave</p>
+      <p>Pittsburgh, PA 15213</p>
   - align: right
     image: brendon-boldt.jpg
     content: about_brendon.md
@@ -28,6 +37,24 @@ profiles:
     image_circular: true
     more_info: >
       <p><strong>Undergraduate Student</strong></p>
+  - align: left
+    image: kalvin-chang.jpg
+    content: about_kalvin.md
+    image_circular: true
+    more_info: >
+      <p><strong>Visitor (joint with WAVLab)</strong></p>
+  - align: right
+    image: eunjung-yeo.jpg
+    content: about_eunjung.md
+    image_circular: true
+    more_info: >
+      <p><strong>Visitor</strong></p>
+  - align: left
+    image: haeji-jung.jpg
+    content: about_haeji.md
+    image_circular: true
+    more_info: >
+      <p><strong>Visitor</strong></p>
 ---
 
 # profiles:

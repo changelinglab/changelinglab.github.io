@@ -12,6 +12,7 @@ profiles:
     content: about_david.md
     image_circular: true
     more_info: >
+      <p><strong><a href="https://cs.cmu.edu/~dmortens/">David R. Mortensen</a></strong></p>
       <p><strong>Assistant Research Professor</strong></p>
       <p>GHC 5407</p>
       <p>5000 Forbes Ave</p>
@@ -21,6 +22,7 @@ profiles:
     content: about_brendon.md
     image_circular: true
     more_info: >
+      <p><strong><a href="https://brendonjboldt.xyz/">Brendon Boldt</a></strong></p>
       <p><strong>PhD Student</strong></p>
       <p>office number</p>
       <p>5000 Forbes Ave</p>
@@ -30,30 +32,35 @@ profiles:
     content: about_kwanghee.md
     image_circular: true
     more_info: >
+      <p><strong>Kwanghee Choi</strong></p>
       <p><strong>Masters Student (joint with WAVLab)</strong></p>
   - align: right
     image: liang-lu.jpg
     content: about_liang.md
     image_circular: true
     more_info: >
+      <p><strong>Liang (Leon) Lu</strong></p>
       <p><strong>Undergraduate Student</strong></p>
   - align: left
     image: kalvin-chang.jpg
     content: about_kalvin.md
     image_circular: true
     more_info: >
+      <p><strong>Kalvin Chang</strong></p>
       <p><strong>Visitor (joint with WAVLab)</strong></p>
   - align: right
     image: eunjung-yeo.jpg
     content: about_eunjung.md
     image_circular: true
     more_info: >
+      <p><strong>Eunjung Yeo</strong></p>
       <p><strong>Visitor</strong></p>
   - align: left
     image: haeji-jung.jpg
     content: about_haeji.md
     image_circular: true
     more_info: >
+      <p><strong>Haeji Jung</strong></p>
       <p><strong>Visitor</strong></p>
 ---
 

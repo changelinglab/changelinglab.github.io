@@ -20,8 +20,10 @@ In this research, we build upon past research in this area.
 - In {% cite chang2022wikihan %}, we propose a new resource for Chinese historical phonology (including Middle Chinese and modern Chinese varieties). This data is foundational to our later papers.
 - In {% cite kim2023transformed %}, we show that Transformer-based models can perform better than RNN (e.g., GRU) based models for supervised protoform reconstruction.
 - In {% cite lu-etal-2024-improved %}, we further improve automatic comparative reconstruction by using reflex prediction to perform reranking on the beam search results from protoform prediction, emulating the methodology of practicing historical linguists.
+- In {% cite cui2024neuralprotolanguagereconstruction %}, we explored VAEs for supervised comparative reconstruction.
+- Finally. in {% cite lu2024semisupervisedneuralprotolanguagereconstruction %}, we showed that it is possible to achieve strong performance on the protoform reconstruction task using only a fraction of the number of labeled data by using the Proto-Daughter-Proto architecture, an end-to-end architecture that favors protoforms that can be derived from cognate sets and from which cognate sets can be derived.
 
 References
 ----------
 
-{% bibliography %}
+{% bibliography --cited %}

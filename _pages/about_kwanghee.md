@@ -1,1 +1,1 @@
-Kwanghee is a second-year Masters student in the LTI
+Kwanghee is a second-year Masters student in the LTI and is a member of both [WAVLab](https://www.wavlab.org/) and ChangeLing Lab. He works on many things, include speech technologies for dysarthric speech and probably self-supervised speech models with linguistic tools.

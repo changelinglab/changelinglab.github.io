@@ -1,0 +1,1 @@
+Leon (or Liang) Lu is an undergraduate in computer science at CMU. He has diverse interests. As part of ChangeLing Lab, he has worked on automating linguists' “comparative method” for reconstructing proto-languages given sets of cognate reflexes.

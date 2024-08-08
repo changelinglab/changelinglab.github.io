@@ -1,0 +1,1 @@
+David R. Mortensen is a computational linguist specializing in phonology, morphology, and language change and is Assistant Research Professor in the Language Technologies Institute at Carnegie Mellon University. He is the head of ChangeLing Lab.

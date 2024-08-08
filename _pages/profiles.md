@@ -28,7 +28,7 @@ profiles:
     image_circular: true
     more_info: >
       <p><strong>Undergraduate Student</strong></p>
-  ---
+---
 
 # profiles:
 #   # if you want to include more than one profile, just replicate the following block

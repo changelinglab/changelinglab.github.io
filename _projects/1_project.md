@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Automating Comparative Reconstruction
+description: Work on developing models that reconstruct protolanguages based on collections of cognate sets
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: diachronic
 related_publications: true
 ---
 

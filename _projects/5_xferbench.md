@@ -5,6 +5,7 @@ description: Evaluating Emergent Communication Systems with Downstream Tasks
 img: assets/img/aareschlucht2-proj.jpg
 importance: 1
 category: emergent
+related_publications: true
 ---
 
 So far, the project has produced one paper {% cite boldt-mortensen-2024-xferbench %}:

@@ -1,1 +1,1 @@
-Ennjung Yeo just completed a PhD at Seoul National University and is currently vising ChangeLing Lab. She works on speech technologys and linguistics for dysarthic speech.
+Eunjung Yeo recently completed her Ph.D. in Linguistics at Seoul National University and has joined the ChangeLing Lab as a visitor in 2024. Her research has focused on the application of technologies for atypical speech, including dysarthric and nonnative speech, from the perspectives of phonetics and phonology.

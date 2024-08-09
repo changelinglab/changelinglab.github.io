@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing ChangeLing Lab Projects
 nav: true
 nav_order: 3
-display_categories: [emergent, diachronic, llm]
+display_categories: [diachronic, emergent, atypical, phonology, llm]
 horizontal: false
 ---
 

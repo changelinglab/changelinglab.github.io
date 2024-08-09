@@ -7,8 +7,7 @@ importance: 3
 category: llm
 ---
 
-The project has generated a number of papers:
+The project, about testing the linguistics capabilities of large language models, has resulted in a couple of papers, with more to come:
 
-- WugGPT paper
-- Wugitivity paper
-- Verbing
+- {% cite weissweiler2023counting %}
+- {% cite mortensen-etal-2024-verbing %}

@@ -32,8 +32,8 @@ profiles:
     content: about_kwanghee.md
     image_circular: true
     more_info: >
-      <p><strong>Kwanghee Choi</strong></p>
-      <p><strong>Masters Student (joint with WAVLab)</strong></p>
+      <p><strong><a href="https://kwangheechoi.com/">Kwanghee Choi</a></strong></p>
+      <p><strong>Master's Student (joint with WAVLab)</strong></p>
   - align: right
     image: liang-lu.jpg
     content: about_liang.md
@@ -53,7 +53,7 @@ profiles:
     content: about_eunjung.md
     image_circular: true
     more_info: >
-      <p><strong>Eunjung Yeo</strong></p>
+      <p><strong><a href="https://eunjung31.github.io/">Eunjung Yeo</a></strong></p>
       <p><strong>Visitor</strong></p>
   - align: left
     image: haeji-jung.jpg

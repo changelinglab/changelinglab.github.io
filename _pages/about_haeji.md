@@ -1,1 +1,1 @@
-Haeji Jung is a masters student in computer science at Korean Univeristy and is vising ChangeLing Lab during 2024 and 2025. She is working with David and other members of the lab on NLP applications of phonological representations.
+Haeji Jung earned her Master's degree in Computer Science and Engineering from Korea University and is visiting ChangeLing Lab during 2024-2025. She has been working on representation learning and is currently interested in leveraging phonological representations for multilingual language modeling and other NLP applications.

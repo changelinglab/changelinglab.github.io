@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phonological Representations for NLP
-description: Leveraging phonological representations like phonetic embeddings, IPA and distinctive features for NLP tasks
+description: Leveraging phonological representations for NLP tasks
 img: assets/img/thurgau-apple-blossoms.jpg
 importance: 1
 category: phonology

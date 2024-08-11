@@ -1,9 +1,5 @@
 github_users:
   - dmort27
-  - brendon-boldt
-  - juice500ml
-  - kalvinchang
-  - chaosarium
 
 repo_description_lines_max: 2
 
@@ -14,7 +10,4 @@ github_repos:
   - dmort27/rspanphon 
   - dmort27/syllabiphon 
   - dmort27/chatgpts-wugs 
-  - dmort27/wikihan 
-  - CHRONOS-KAIROS/eratosthenes 
-  - brendon-boldt/emergent-language-library
   - clmarr/DiaSim 

@@ -5,6 +5,7 @@ description: Corpus approaches to changes in lexicons
 img: /assets/img/basel-sky-proj.jpg
 importance: 4
 category: diachronic
+related_publications: true
 ---
 
 In this project, we explore the way lexicons of languages change over time:

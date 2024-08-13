@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: ChangeLing Lab is officially born! :sparkles: (though it has long existed in fact).
+:sparkles: **ChangeLing Lab is officially born!** :sparkles: (though it has long existed in fact).

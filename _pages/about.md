@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-In agraian societies pre-modern Europe, children who were uncanny in their abilities or intelligence, or who were otherwise unusual, were often labeled as “changelings,” and felt to be fairies who had been exchanged for humans. Many of these individuals labeled as changelings seem to have had neurological or psychiatric conditions, rather than being magical. Our goal is to seek out, understand, and demystify the uncanny aspects of language and what drives languages.
-
 ChangeLing Lab is Carnegie Mellon University's only research lab focused on understanding how languages change, and how these patterns of change shape the way that languages are at any given point in time, **from a computational perspective**. We are interested in phonetics, phonology, and morphology (whether diachronic or synchronic), emergent communication, and have a special concern for the use of language science to benefit people with disabilities.
 
 ChangeLing is lead by [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/), an Assistant Research Professor in the Language Technologies Institute. It consists, additionally, of graduate students, former LTI students who still collaborate with David, and visitors.

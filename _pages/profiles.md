@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Members and retroactive alumi of ChangLing Lab
+description: Members and retroactive alumni of ChangLing Lab
 nav: true
 nav_order: 7
 

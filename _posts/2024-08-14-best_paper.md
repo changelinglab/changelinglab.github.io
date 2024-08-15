@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On our ACL Best Paper Award Paper
-date: 2024-08-07 16:40:16
+date: 2024-08-15 16:40:16
 description: a short philosophical discursion
 tags: formatting links
 categories: sample-posts

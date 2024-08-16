@@ -1,0 +1,28 @@
+---
+layout: post
+title: Tests of Difference
+date: 2024-08-14 16:40:16
+description: What I Teach My NLP Students about Scientific Methodology
+tags: formatting links
+categories: sample-posts
+---
+
+I am fortunate to work with brilliant students—undergraduates, Masters students, and PhD students. They tend to bring technical knowledge to our collaborations that is far beyond my own, especially with regard to state-of-the-art NLP approaches. I cannot overstate the benefit that I gain from collaborating with them.
+
+Since we are in a technical field, do I have anything to contribute to them? I have found, time and time again, that even the technically strongest students have something to learn in terms of scientific methodology. This is because they have been trained to be solid engineers but not solid scientists.
+
+# Engineering is Different from Science
+
+Developing a practical solution to a problem often requires scientific knowledge, but engineering requires a different mindset: a mindset of optimization. Engineers need to maximize utility and minimize cost. Students trained to think like engineers will explore a problem space as if it is an optimization problem. They search through the space, modifying solutions based on science, but also intuition and experience, until acceptable performance (i.e., performance that beats the state of the art) is reached. Ideally, this is not how science works.
+
+# The Goal of Science is Producing Generalizable Knowledge
+
+Science does not work that way because science is about pursing generalizable knowledge about a domain. From a scientific standpoint, it is much better to explore a small space exhaustively (without maximizing scores) than to explore a large space in such a way that the optimum is discovered most efficiently. The engineering approach does not yield general relationships or laws; it only tells you what is best in a specific use case. Scientists should be systematic. If they explore some combinations of parameters, they should explore all combinations of those parameters. Does this result in combinatorial explosions? Yes! However, it is essential because meaningful scientific generalizations are ultimately causal generalizations and causation can only be established through what are sometimes called “difference tests” and this means examining minimally contrasting settings.
+
+# Scientific Knowledge is Causal Knowledge
+
+A scientific question, as I would define it, is a general question about the laws governing the universe (physical, social, computational). That is, it is a question of the form, “Does changing X change Y (under preconditions Z).” As an example, “If a transformer is substituting for a GRU in a sequence-to-sequence transduction task with 5000 short training examples, will chrF++ go up?” Learning to ask questions like this is surprisingly difficult.
+
+# Test Everything for Significance
+
+Like many sensible people, I have fundamental concerns about Frequentist statistics, but I have stronger concerns about the “I-know-it-when-I-see-it” test for differences between means. I tell students that they should not trust scores from single runs, or even a few runs. While I think that statistical tests for significance are philosophically problematic, they enforce a useful practical discipline: run models many times and don't make claims based on differences that are small relative to the number of runs. I tell students to be thorough and systematic about testing and to carefully consider what tests (t-test, chi-squared, bootstrap, wilcoxon, etc.) would be appropriate as the experiment is designed.

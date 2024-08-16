@@ -2,7 +2,7 @@
 layout: page
 title: Universal Phone Recognition
 description: recognizing phonetic units in a language-neural fashion
-img: assets/img/fribourg-cathedral-proj.jpg
+img: assets/img/gruyere-tower-proj.jpg
 importance: 1
 category: speech
 related_publications: true

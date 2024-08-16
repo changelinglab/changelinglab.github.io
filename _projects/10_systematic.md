@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leveraging Systematic Relationships for Improved ASR Across Language Varieties
+title: Systematic Relationships for Improved ASR
 description: Better ASR for low resource varieties
 img: assets/img/fribourg-cathedral-proj.jpg
 importance: 1

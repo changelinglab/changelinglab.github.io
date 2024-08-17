@@ -62,6 +62,13 @@ profiles:
     more_info: >
       <p><strong>Haeji Jung</strong></p>
       <p><strong>Visitor</strong></p>
+  - align: right
+    image: leonie-weissweiler.jpg
+    content: about_leonie.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="http://www.cis.lmu.de/~weissweiler">Leonie Weissweiler</a></strong></p>
+      <p><strong>Collaborator</strong></p>
 ---
 
 # profiles:

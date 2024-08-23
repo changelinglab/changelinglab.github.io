@@ -6,7 +6,7 @@ subtitle: Language Change and Empirical Linguistics at CMU
 
 profile:
   align: right
-  image: logo.png
+  image: changeling.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>5407 Gates Hillman Complex</p>

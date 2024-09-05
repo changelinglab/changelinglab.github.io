@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Information and Comparative Reconstruction
-date: 2024-08-14 16:40:16
+date: 2024-09-05 16:40:16
 description: Informal information-theoretic framing of the comparative method in historical linguistics
 tags: formatting links
 categories: sample-posts

@@ -1,0 +1,1 @@
+Leonie Weissweiler recently received her PhD from LMU Munich and is now a postdoc with Kyle Mahowald at UT Austin. She collaborates with ChangeLing Lab on topics related to the linguistic evaluation of language models, for example for constructions or morphological generalization.

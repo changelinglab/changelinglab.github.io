@@ -4,7 +4,7 @@ title: Atypical Speech Assessment
 description: Assessing the degree to which speech is atypical
 img: assets/img/tessin-valley.jpg
 importance: 1
-category: atypical
+category: speech
 ---
 
 We are building tools to better recognize the degree of atypicality in dysarthric and non-native speech and to allow clinicians and educators to better diagnose, treat, and mitigate atypical speech when it produces significant impairment.

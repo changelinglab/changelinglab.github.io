@@ -1,0 +1,1 @@
+Chin-Jou Li is a 1st master's student in the LTI. She currently works on [atypical speech assessment](/projects/7_evaluating/) and [universal phone recognition](/projects/10_universal/).

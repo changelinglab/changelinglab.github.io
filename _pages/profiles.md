@@ -42,27 +42,34 @@ profiles:
       <p><strong>Liang (Leon) Lu</strong></p>
       <p><strong>Undergraduate Student</strong></p>
   - align: left
+    image: chinjou-li.jpg
+    content: about_chinjou.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
+      <p><strong>Master's Student</strong></p>
+  - align: right
     image: kalvin-chang.jpg
     content: about_kalvin.md
     image_circular: true
     more_info: >
       <p><strong>Kalvin Chang</strong></p>
       <p><strong>Visitor (joint with WAVLab)</strong></p>
-  - align: right
+  - align: left
     image: eunjung-yeo.jpg
     content: about_eunjung.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://eunjung31.github.io/">Eunjung Yeo</a></strong></p>
       <p><strong>Visitor</strong></p>
-  - align: left
+  - align: right
     image: haeji-jung.jpg
     content: about_haeji.md
     image_circular: true
     more_info: >
       <p><strong>Haeji Jung</strong></p>
       <p><strong>Visitor</strong></p>
-  - align: right
+  - align: left
     image: leonie-weissweiler.jpg
     content: about_leonie.md
     image_circular: true

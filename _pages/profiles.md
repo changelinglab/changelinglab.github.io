@@ -76,6 +76,8 @@ profiles:
     more_info: >
       <p><strong><a href="http://www.cis.lmu.de/~weissweiler">Leonie Weissweiler</a></strong></p>
       <p><strong>Collaborator</strong></p>
+  - align: left
+    content: about_alumni.md
 ---
 
 # profiles:

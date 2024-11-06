@@ -1,0 +1,1 @@
+Ting Chen is an undergraduate in Statistics and Machine Learning at CMU.  Her interests are in natural speech processing in low resource languages. She has been working in automatic speech recognition in Sinitic dialects, as well as phylogenetic inference in historical linguistics.

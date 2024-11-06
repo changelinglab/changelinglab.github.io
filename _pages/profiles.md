@@ -70,6 +70,13 @@ profiles:
       <p><strong>Haeji Jung</strong></p>
       <p><strong>Visitor</strong></p>
   - align: left
+    image: ting-chen.jpg
+    content: about_chen.md
+    image_circular: true
+    more_info: >
+      <p><strong>Ting Chen</strong></p>
+      <p><strong>Undergraduate Student</strong></p>
+  - align: right
     image: leonie-weissweiler.jpg
     content: about_leonie.md
     image_circular: true

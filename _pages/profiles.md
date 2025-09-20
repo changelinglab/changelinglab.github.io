@@ -53,8 +53,8 @@ profiles:
     content: about_kalvin.md
     image_circular: true
     more_info: >
-      <p><strong>Kalvin Chang</strong></p>
-      <p><strong>Visitor (joint with WAVLab)</strong></p>
+      <p><strong><a href="https://kalvinchang.github.io">Kalvin Chang</a></strong></p>
+      <p><strong>Collaborator, Alumnus</strong></p>
   - align: left
     image: eunjung-yeo.jpg
     content: about_eunjung.md

@@ -84,6 +84,13 @@ profiles:
       <p><strong><a href="http://www.cis.lmu.de/~weissweiler">Leonie Weissweiler</a></strong></p>
       <p><strong>Collaborator</strong></p>
   - align: left
+    image: keer-xu.jpg
+    content: about_keer.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://keerxu721.github.io/KeerXu721/">Keer Xu</a></strong></p>
+      <p><strong>Master's Studen</strong></p>
+  - align: left
     content: about_alumni.md
 ---
 

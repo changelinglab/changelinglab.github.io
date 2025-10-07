@@ -27,13 +27,6 @@ profiles:
       <p>office number</p>
       <p>5000 Forbes Ave</p>
       <p>Pittsburgh, PA 15213</p>
-  - align: left
-    image: kwanghee-choi.jpg
-    content: about_kwanghee.md
-    image_circular: true
-    more_info: >
-      <p><strong><a href="https://kwangheechoi.com/">Kwanghee Choi</a></strong></p>
-      <p><strong>Master's Student (joint with WAVLab)</strong></p>
   - align: right
     image: liang-lu.jpg
     content: about_liang.md
@@ -48,6 +41,13 @@ profiles:
     more_info: >
       <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
       <p><strong>Master's Student</strong></p>
+  - align: left
+    image: keer-xu.jpg
+    content: about_keer.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://keerxu721.github.io/KeerXu721/">Keer Xu</a></strong></p>
+      <p><strong>Master's Studen</strong></p>
   - align: right
     image: kalvin-chang.jpg
     content: about_kalvin.md
@@ -61,7 +61,14 @@ profiles:
     image_circular: true
     more_info: >
       <p><strong><a href="https://eunjung31.github.io/">Eunjung Yeo</a></strong></p>
-      <p><strong>Visitor</strong></p>
+      <p><strong>Collaborator</strong></p>
+  - align: left
+    image: kwanghee-choi.jpg
+    content: about_kwanghee.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://kwangheechoi.com/">Kwanghee Choi</a></strong></p>
+      <p><strong>Collaborator, Alumnus</strong></p>
   - align: right
     image: haeji-jung.jpg
     content: about_haeji.md
@@ -83,13 +90,6 @@ profiles:
     more_info: >
       <p><strong><a href="http://www.cis.lmu.de/~weissweiler">Leonie Weissweiler</a></strong></p>
       <p><strong>Collaborator</strong></p>
-  - align: left
-    image: keer-xu.jpg
-    content: about_keer.md
-    image_circular: true
-    more_info: >
-      <p><strong><a href="https://keerxu721.github.io/KeerXu721/">Keer Xu</a></strong></p>
-      <p><strong>Master's Studen</strong></p>
   - align: left
     content: about_alumni.md
 ---

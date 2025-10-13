@@ -27,6 +27,13 @@ profiles:
       <p>office number</p>
       <p>5000 Forbes Ave</p>
       <p>Pittsburgh, PA 15213</p>
+  - align: left
+    image: shikhar-bharadwaj.jpeg
+    content: about_shikhar.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://shikhar-s.github.io/">Shikhar Bharadwaj</a></strong></p>
+      <p><strong>PhD Student</strong></p>
   - align: right
     image: liang-lu.jpg
     content: about_liang.md

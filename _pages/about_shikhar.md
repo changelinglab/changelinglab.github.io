@@ -1,1 +1,1 @@
-Shikhar Bharadwaj is a second year PhD student in ChangeLing Lab. His interests are speech processing and learning world knowledge from speech. He is currently involved in building phonetic foundation models.
+Shikhar Bharadwaj is a second year PhD student in ChangeLing Lab. His interests are speech processing and learning world knowledge from speech. He is currently involved in building [phonetic foundation models](/projects/10_universal/).

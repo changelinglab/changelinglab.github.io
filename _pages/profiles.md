@@ -48,21 +48,21 @@ profiles:
     more_info: >
       <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
       <p><strong>Master's Student</strong></p>
-  - align: left
+  - align: right
     image: keer-xu.jpg
     content: about_keer.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://keerxu721.github.io/KeerXu721/">Keer Xu</a></strong></p>
       <p><strong>Master's Studen</strong></p>
-  - align: right
+  - align: left
     image: kalvin-chang.jpg
     content: about_kalvin.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://kalvinchang.github.io">Kalvin Chang</a></strong></p>
       <p><strong>Collaborator, Alumnus</strong></p>
-  - align: left
+  - align: right
     image: eunjung-yeo.jpg
     content: about_eunjung.md
     image_circular: true

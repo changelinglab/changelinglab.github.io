@@ -54,7 +54,7 @@ profiles:
     image_circular: true
     more_info: >
       <p><strong><a href="https://keerxu721.github.io/KeerXu721/">Keer Xu</a></strong></p>
-      <p><strong>Master's Studen</strong></p>
+      <p><strong>Master's Student</strong></p>
   - align: left
     image: kalvin-chang.jpg
     content: about_kalvin.md

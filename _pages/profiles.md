@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members and retroactive alumni of ChangLing Lab
 nav: true
 nav_order: 1

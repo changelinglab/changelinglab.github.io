@@ -1,4 +1,4 @@
-## alumni
+## Alumni
 * Maria Ryskina (PhD) &#8594; MIT
 * Katherine J. Zhang (MA GCAT) &#8594; HoYoverse
 * Nathan Anderson (MLT) &#8594; BYU

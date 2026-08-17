@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: David Mortensen's publications including all publications with other members of ChangeLing Lab.
 nav: true
 nav_order: 2

@@ -8,3 +8,13 @@
 * Nate Robinson (MLT) &#8594; JHU
 * Yanlin Feng (MLT) &#8594; Megagon
 * Anna Cai (MSML) &#8594; Meta
+* Leonie Weissweiler (Collaborator) &#8594; Leipzig University
+* Kalvin Chang (BS CS, MLT, Visitor) &#8594; Berkeley
+* Kwanghee Choi (MLT) &#8594; UT Austin
+* Eunjung Yeo (Visitor) &#8594; UT Austin
+* Haeji Jung (Visitor) &#8594; UBC
+* Keer Xu (MIIS) &#8594; NetApp
+* Liang Lu (BS CS) 
+* Yoongjae Kim (Visitor)
+* Brendon Boldt (PhD) &#8594; EvenUp
+* Ting Chen (BS StatML) &#8594; IUB

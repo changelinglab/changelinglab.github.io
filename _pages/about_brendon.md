@@ -1,1 +1,0 @@
-Brendon Boldt is an 3rd year PhD student in ChangLing Lab. He works primarily on emergent language/emergent communication and is about to propose a thesis about it.

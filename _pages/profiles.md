@@ -17,7 +17,7 @@ profiles:
       <p>GHC 5407</p>
       <p>5000 Forbes Ave</p>
       <p>Pittsburgh, PA 15213</p>
-  - align: left
+  - align: right
     image: shikhar-bharadwaj.jpeg
     content: about_shikhar.md
     image_circular: true

@@ -1,4 +1,4 @@
-## Alumni
+## alumni
 * Maria Ryskina (PhD) &#8594; MIT
 * Katherine J. Zhang (MA GCAT) &#8594; HoYoverse
 * Nathan Anderson (MLT) &#8594; BYU
@@ -15,6 +15,6 @@
 * Haeji Jung (Visitor) &#8594; UBC
 * Keer Xu (MIIS) &#8594; NetApp
 * Liang Lu (BS CS) 
-* Yoongjae Kim (Visitor)
+* Yoonjae Kim (Visitor)
 * Brendon Boldt (PhD) &#8594; EvenUp
 * Ting Chen (BS StatML) &#8594; IUB

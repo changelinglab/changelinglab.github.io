@@ -2,7 +2,7 @@
 layout: page
 title: Historical Linguistics as Code Generation
 description: Modeling phonological reconstruction as a code generation problem using LLMs
-img: assets/img/basel-rathaus-proj.jpg
+img: assets/img/proj/basel-rathaus-proj.jpg
 importance: 2
 category: diachronic
 related_publications: true

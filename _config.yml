@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: linguistics, computational-linguistics, natural-language-processing, diachronic, phonology, morphology, sociolinguistics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ʧ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://changelinglab.github.io # the base hostname & protocol for your site
 baseurl: /changelinglab.github.io # TEMP: fork testing on chinjouli.github.io/changelinglab.github.io/ -- revert to blank before pushing to the real changelinglab.github.io repo

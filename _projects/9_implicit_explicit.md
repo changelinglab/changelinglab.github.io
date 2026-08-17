@@ -2,7 +2,7 @@
 layout: page
 title: Blocking in LLMs
 description: Do LLMs know the badness of badity?
-img: /assets/img/luzern-panorama-proj.jpg
+img: assets/img/proj/luzern-panorama-proj.jpg
 importance: 3
 category: llm
 ---

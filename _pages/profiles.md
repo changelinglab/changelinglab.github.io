@@ -32,6 +32,8 @@ profiles:
       <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
       <p><strong>PhD Student</strong></p>
   - align: left
+    content: about_collaborators.md
+  - align: left
     content: about_alumni.md
 ---
 

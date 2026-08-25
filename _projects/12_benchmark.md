@@ -2,7 +2,7 @@
 layout: page
 title: FBCC Benchmark
 description: Evaluating the ability of code language models to generalize and plan based on examples
-img: /assets/img/luzern-bridge2-proj.jpg
+img: assets/img/proj/luzern-bridge2-proj.jpg
 importance: 2
 category: llm
 ---

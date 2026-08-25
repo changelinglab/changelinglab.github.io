@@ -2,7 +2,7 @@
 layout: page
 title: XferBench
 description: Evaluating Emergent Communication Systems with Downstream Tasks
-img: assets/img/aareschlucht2-proj.jpg
+img: assets/img/proj/aareschlucht2-proj.jpg
 importance: 1
 category: emergent
 related_publications: true

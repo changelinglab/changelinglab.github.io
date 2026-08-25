@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members and retroactive alumni of ChangLing Lab
 nav: true
-nav_order: 7
+nav_order: 1
 
 profiles:
   - align: left
@@ -18,85 +18,35 @@ profiles:
       <p>5000 Forbes Ave</p>
       <p>Pittsburgh, PA 15213</p>
   - align: right
-    image: brendon-boldt.jpg
-    content: about_brendon.md
-    image_circular: true
-    more_info: >
-      <p><strong><a href="https://brendonjboldt.xyz/">Brendon Boldt</a></strong></p>
-      <p><strong>PhD Student</strong></p>
-      <p>office number</p>
-      <p>5000 Forbes Ave</p>
-      <p>Pittsburgh, PA 15213</p>
-  - align: left
     image: shikhar-bharadwaj.jpeg
     content: about_shikhar.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://shikhar-s.github.io/">Shikhar Bharadwaj</a></strong></p>
       <p><strong>PhD Student</strong></p>
-  - align: right
-    image: liang-lu.jpg
-    content: about_liang.md
-    image_circular: true
-    more_info: >
-      <p><strong>Liang (Leon) Lu</strong></p>
-      <p><strong>Undergraduate Student</strong></p>
   - align: left
     image: chinjou-li.jpg
     content: about_chinjou.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
-      <p><strong>Master's Student</strong></p>
+      <p><strong>PhD Student</strong></p>
   - align: right
-    image: keer-xu.jpg
-    content: about_keer.md
+    image: john-ternullo.jpg
+    content: about_john.md
     image_circular: true
     more_info: >
-      <p><strong><a href="https://keerxu721.github.io/KeerXu721/">Keer Xu</a></strong></p>
-      <p><strong>Master's Student</strong></p>
+      <p><strong>John Ternullo</a></strong></p>
+      <p><strong>5LT Student</strong></p>
   - align: left
-    image: kalvin-chang.jpg
-    content: about_kalvin.md
+    image: atharva-naik.jpg
+    content: about_atharva.md
     image_circular: true
     more_info: >
-      <p><strong><a href="https://kalvinchang.github.io">Kalvin Chang</a></strong></p>
-      <p><strong>Collaborator, Alumnus</strong></p>
-  - align: right
-    image: eunjung-yeo.jpg
-    content: about_eunjung.md
-    image_circular: true
-    more_info: >
-      <p><strong><a href="https://eunjung31.github.io/">Eunjung Yeo</a></strong></p>
-      <p><strong>Collaborator</strong></p>
+      <p><strong><a href="https://atharva-naik.github.io/">Atharva Naik</a></strong></p>
+      <p><strong>PhD Student</strong></p>
   - align: left
-    image: kwanghee-choi.jpg
-    content: about_kwanghee.md
-    image_circular: true
-    more_info: >
-      <p><strong><a href="https://kwangheechoi.com/">Kwanghee Choi</a></strong></p>
-      <p><strong>Collaborator, Alumnus</strong></p>
-  - align: right
-    image: haeji-jung.jpg
-    content: about_haeji.md
-    image_circular: true
-    more_info: >
-      <p><strong>Haeji Jung</strong></p>
-      <p><strong>Visitor</strong></p>
-  - align: left
-    image: ting-chen.jpg
-    content: about_chen.md
-    image_circular: true
-    more_info: >
-      <p><strong>Ting Chen</strong></p>
-      <p><strong>Undergraduate Student</strong></p>
-  - align: right
-    image: leonie-weissweiler.jpg
-    content: about_leonie.md
-    image_circular: true
-    more_info: >
-      <p><strong><a href="https://leonieweissweiler.github.io/">Leonie Weissweiler</a></strong></p>
-      <p><strong>Collaborator</strong></p>
+    content: about_collaborators.md
   - align: left
     content: about_alumni.md
 ---

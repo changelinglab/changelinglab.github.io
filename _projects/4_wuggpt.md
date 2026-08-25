@@ -2,7 +2,7 @@
 layout: page
 title: WugGPT
 description: Evaluating the morphological capabilities of Large Language Models
-img: /assets/img/luzern-bridge-proj.jpg
+img: assets/img/proj/luzern-bridge-proj.jpg
 importance: 3
 category: llm
 related_publications: true

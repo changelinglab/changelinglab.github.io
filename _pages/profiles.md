@@ -31,6 +31,20 @@ profiles:
     more_info: >
       <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
       <p><strong>PhD Student</strong></p>
+  - align: right
+    image: john-ternullo.jpg
+    content: about_john.md
+    image_circular: true
+    more_info: >
+      <p><strong>John Ternullo</a></strong></p>
+      <p><strong>5LT Student</strong></p>
+  - align: left
+    image: atharva-naik.jpg
+    content: about_atharva.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://atharva-naik.github.io/">Atharva Naik</a></strong></p>
+      <p><strong>PhD Student</strong></p>
   - align: left
     content: about_collaborators.md
   - align: left

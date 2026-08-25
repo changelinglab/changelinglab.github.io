@@ -1,0 +1,1 @@
+John Ternullo is a student in the Fifth Year Master's Program in Language Technologies at CMU and a member of the ChangeLing Lab. He is interested in multilingual ASR and technologies for low-resource languages. His past work has applied computational methods to phonological typology.

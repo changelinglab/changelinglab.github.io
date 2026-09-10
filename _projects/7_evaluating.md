@@ -2,7 +2,7 @@
 layout: page
 title: Atypical Speech Assessment
 description: Assessing the degree to which speech is atypical
-img: assets/img/tessin-valley.jpg
+img: assets/img/proj/tessin-valley.jpg
 importance: 1
 category: speech
 ---

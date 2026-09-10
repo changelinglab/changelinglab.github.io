@@ -2,7 +2,7 @@
 layout: page
 title: Lexical Change
 description: Corpus approaches to changes in lexicons
-img: /assets/img/basel-sky-proj.jpg
+img: assets/img/proj/basel-sky-proj.jpg
 importance: 4
 category: diachronic
 related_publications: true

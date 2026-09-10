@@ -2,7 +2,7 @@
 layout: page
 title: Implicit and Explicit Reasoning in LLMs
 description: Do LLMs introspect?
-img: /assets/img/luzern-lake-proj.jpg
+img: assets/img/proj/luzern-lake-proj.jpg
 importance: 2
 category: llm
 ---

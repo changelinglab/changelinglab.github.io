@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Agentic Comparative Reconstruction
-description: Work on developing models that reconstruct protolanguages based on collections of cognate sets
+description: Work on developing models and agentic frameworks that reconstruct protolanguages based on collections of cognate sets
 img: assets/img/proj/basel-muenster-proj.jpg
 importance: 1
 category: diachronic

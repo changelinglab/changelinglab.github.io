@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automating Comparative Reconstruction
+title: Agentic Comparative Reconstruction
 description: Work on developing models that reconstruct protolanguages based on collections of cognate sets
 img: assets/img/basel-muenster-proj.jpg
 importance: 1
@@ -13,7 +13,7 @@ The assumption that historical changes in pronunciation (“sound changes”) ar
 
 > Every sound change, in so far as it proceeds mechanically, is completed in accordance with laws admitting of no exceptions; i.e. the direction in which the change takes place is always the same for all members of a language community, apart from the case of dialect division, and all words in which the sound subject to change occurs in the same conditions are affected by the change without exception (*Morphologische Untersuchungen auf dem Gebiete der indogermanischen Sprachen i*).
 
-The comparative method, however, is challenging for humans to apply. This is true largely because it involves dealing with large volumes of data and modeling numerous interactions between competing patterns. One must balance the need for phonetic similarity between reconstructed words and their descendants (reflexes) with the need to be able to deterministically derive reflexes from reconstructed words with a single set of sound changes. It imposes a heavy cognitive load. For this reason, researchers have long aspired to implement the comparative method computationally.
+The comparative method, however, is challenging for humans to apply. This is true largely because it involves dealing with large volumes of data and modeling numerous interactions between competing patterns. One must balance the need for phonetic similarity between reconstructed words and their descendants (reflexes) with the need to be able to deterministically derive reflexes from reconstructed words with a single set of sound changes. It is a complex reasoning problem. For this reason, researchers have long aspired to implement the comparative method computationally.
 
 In this research, we build upon past research in this area.
 

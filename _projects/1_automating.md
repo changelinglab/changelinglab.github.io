@@ -23,3 +23,6 @@ In this research, we build upon past research in this area.
 - In {% cite lu-etal-2024-improved %}, we further improve automatic comparative reconstruction by using reflex prediction to perform reranking on the beam search results from protoform prediction, emulating the methodology of practicing historical linguists.
 - In {% cite cui2024neuralprotolanguagereconstruction %}, we explored VAEs for supervised comparative reconstruction.
 - Finally. in {% cite lu2024semisupervisedneuralprotolanguagereconstruction %}, we showed that it is possible to achieve strong performance on the protoform reconstruction task using only a fraction of the number of labeled data by using the Proto-Daughter-Proto architecture, an end-to-end architecture that favors protoforms that can be derived from cognate sets and from which cognate sets can be derived.
+- In {% cite naik2024largelanguagemodelscode %} we demonstrate the LLMs are capable of performing forward reconstruction, under certain circumstances.
+- In {% cite naik-etal-2026-pbebench %}, we propose an LLM reasoning benchmark based on forward reconstruction.
+- In {% cite naik2026reacomp %}, we demonstrate that LLM reasoning can be compiled into symbolic solvers which can solve forward reconstruction and related problems.

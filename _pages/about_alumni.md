@@ -19,7 +19,7 @@
   <li class="d-flex justify-content-between"><span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Kalvin Chang (BS CS, MLT)</span><span>Berkeley</span></li>
   <li class="d-flex justify-content-between"><span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Kwanghee Choi (MLT)</span><span>UT Austin</span></li>
   <li class="d-flex justify-content-between"><span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Keer Xu (MIIS)</span><span>NetApp</span></li>
-  <li class="d-flex justify-content-between"><span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Liang Lu (BS CS)</span><span>Jane Street Capital</span></li>
+  <li class="d-flex justify-content-between"><span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Liang Lu (BS CS)</span><span></span></li>
   <li class="d-flex justify-content-between"><span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Ting Chen (BS StatML)</span><span>IU Bloomington</span></li>
 </ul>
 

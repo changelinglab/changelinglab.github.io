@@ -45,6 +45,13 @@ profiles:
     more_info: >
       <p><strong><a href="https://atharva-naik.github.io/">Atharva Naik</a></strong></p>
       <p><strong>PhD Student</strong></p>
+  - align: right
+    image: ivan-zhang.jpg
+    content: about_ivan.md
+    image_circular: true
+    more_info: >
+      <p><strong>Ivan Zhang</a></strong></p>
+      <p><strong>SCS Undergrad</strong></p>
   - align: left
     content: about_collaborators.md
   - align: left

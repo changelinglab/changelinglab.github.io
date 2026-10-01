@@ -1,0 +1,1 @@
+Ivan Zhang is an undergraduate student in SCS at CMU. He’s interested in exploring natural-language reasoning capabilities of LLMs and how they are influenced by linguistic principles.

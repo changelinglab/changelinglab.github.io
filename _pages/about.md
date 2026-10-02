@@ -20,6 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 ChangeLing Lab is Carnegie Mellon University's only research lab focused on understanding how languages change, and how these patterns of change shape the way that languages are at any given point in time, **from a computational perspective**. We are interested in phonetics, phonology, and morphology (whether diachronic or synchronic), emergent communication, and have a special concern for the use of language science to benefit people with disabilities.
 
+<img src="{{ site.baseurl }}/assets/img/research-framework-cmu.svg"
+     alt="Research Framework: Modeling and Reasoning about Language as a Dynamic System"
+     style="width: 100%; height: auto; margin: 1.5em 0; display: block;">
+
 ChangeLing is lead by [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/), an Associate Research Professor in the Language Technologies Institute. It consists, additionally, of graduate students, former LTI students who still collaborate with David, and visitors.
 
 If you are interested in joining ChangeLing, please email David at [dmortens@cs.cmu.edu](mailto:dmortens@cs.cmu.edu) with a CV and a description of what work you would like to do with us. Please take the following into account:

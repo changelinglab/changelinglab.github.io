@@ -24,7 +24,7 @@ ChangeLing is lead by [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/), a
 
 <img src="{{ site.baseurl }}/assets/img/research-framework-cmu.svg"
      alt="Research Framework: Modeling and Reasoning about Language as a Dynamic System"
-     style="width: 70%; height: auto; margin: 1.5em 0; display: block;">
+     style="float: left; width: 50%; height: auto; margin: 0.25em 1.5em 1em 0;">
 
 If you are interested in joining ChangeLing, please email David at [dmortens@cs.cmu.edu](mailto:dmortens@cs.cmu.edu) with a CV and a description of what work you would like to do with us. Please take the following into account:
 

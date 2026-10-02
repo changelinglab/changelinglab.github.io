@@ -1,0 +1,1 @@
+Daniel (Chengmin) Xu is an undergraduate student studying Linguistics at CMU. He is interested in the intersection between multilingual NLP and speech processing, and AI/ML at large. His past work includes research on Sino-Japanese phonology, audio synthesis, and computational conlang generation. He is currently implementing solutions to automate backwards reconstruction.

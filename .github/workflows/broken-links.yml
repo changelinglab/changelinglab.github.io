@@ -49,4 +49,4 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --root-dir . --exclude 'https://www\.linkedin\.com/in/sadhana-panthi-746561257/' --exclude 'https://scholar\.google\.com/citations\?user=gZRDGQ4AAAAJ&hl=en' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/about.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --user-agent 'curl/7.54' --root-dir . --exclude '^/projects/(10_systematic|10_universal|7_evaluating)/?$' --exclude 'https://www\.linkedin\.com/in/sadhana-panthi-746561257/' --exclude 'https://scholar\.google\.com/citations\?user=gZRDGQ4AAAAJ&hl=en' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/about.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'

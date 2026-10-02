@@ -1,0 +1,1 @@
+Sadhana Panthi recently graduated in Computer Engineering from Pulchowk Campus, Tribhuvan University, Nepal. Her research interests include NLP and speech technologies for low-resource languages, with a broader interest in multilingual AI.

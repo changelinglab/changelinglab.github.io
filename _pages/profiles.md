@@ -66,6 +66,13 @@ profiles:
     more_info: >
       <p><strong><a href="https://github.com/TP080419">Thomas Pei</a></strong></p>
       <p><strong>Master's Student</strong></p>
+  - align: right
+    image: collabs/sadhana-panthi.jpg
+    content: about_sadhana_panthi.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://www.linkedin.com/in/sadhana-panthi-746561257/">Sadhana Panthi</a></strong></p>
+      <p><strong>Collaborator</strong></p>
   - align: left
     content: about_collaborators.md
   - align: left

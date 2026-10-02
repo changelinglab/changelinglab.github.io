@@ -71,7 +71,7 @@ profiles:
     content: about_sadhana_panthi.md
     image_circular: true
     more_info: >
-      <p><strong><a href="https://www.linkedin.com/in/sadhana-panthi-746561257/">Sadhana Panthi</a></strong></p>
+      <p><strong>Sadhana Panthi</strong></p>
       <p><strong>Collaborator</strong></p>
   - align: left
     content: about_collaborators.md

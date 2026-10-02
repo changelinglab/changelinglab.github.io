@@ -30,3 +30,4 @@ If you are interested in joining ChangeLing, please email David at [dmortens@cs.
 
 - We are only concerned with work that has some linguistic angle (either it uses linguistics or it is useful for linguists). Students who are concerned with machine learning for its own sake would be better served by another lab.
 - We are interested in large language models, but only with respect to their language and linguistic reasoning capabilities. Our lab is not a good place to do general, engineering-focused or fundamental research on LLMs.
+

@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members and retroactive alumni of ChangLing Lab
+description: Members and retroactive alumni of ChangeLing Lab
 nav: true
 nav_order: 1
 
@@ -53,6 +53,13 @@ profiles:
       <p><strong>Ivan Zhang</a></strong></p>
       <p><strong>SCS Undergrad</strong></p>
   - align: left
+    image: daniel-xu.jpg
+    content: about_daniel.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://github.com/dxu-18">Daniel Xu</strong></p>
+      <p><strong>Undergraduate</strong></p>
+  - align: right
     image: thomas-pei.jpg
     content: about_thomas.md
     image_circular: true

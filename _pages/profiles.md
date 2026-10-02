@@ -53,6 +53,13 @@ profiles:
       <p><strong>Ivan Zhang</a></strong></p>
       <p><strong>SCS Undergrad</strong></p>
   - align: left
+    image: thomas-pei.jpg
+    content: about_thomas.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://github.com/TP080419">Thomas Pei</a></strong></p>
+      <p><strong>Master's Student</strong></p>
+  - align: left
     content: about_collaborators.md
   - align: left
     content: about_alumni.md

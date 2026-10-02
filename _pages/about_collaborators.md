@@ -19,6 +19,6 @@
   </div>
   <div class="col text-center">
     {% include figure.liquid path="assets/img/collabs/kwanghee-choi.jpg" class="img-fluid z-depth-1 rounded-circle" %}
-    <p style="font-family: Inconsolata, 'Roboto Mono', monospace; font-size: 10pt;"><a href="https://kwangheechoi.com/">Kwanghee Choi</a><br>PhD Student</p>
+    <p style="font-family: Inconsolata, 'Roboto Mono', monospace; font-size: 10pt;"><a href="https://kwangheechoi.notion.site/Kwanghee-Choi-9250bb79f1664e5b8e8c5553adf20068">Kwanghee Choi</a><br>PhD Student</p>
   </div>
 </div>

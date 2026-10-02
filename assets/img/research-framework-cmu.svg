@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 433.08701 271.08701"
+   font-family="system-ui, '-apple-system', sans-serif"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="research-framework-cmu.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   width="433.08701"
+   height="271.08701"
+   inkscape:export-filename="/Users/mortensen/Downloads/mortensen-research-program.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.08"
+     inkscape:cx="197.35577"
+     inkscape:cy="200.24038"
+     inkscape:window-width="2120"
+     inkscape:window-height="1292"
+     inkscape:window-x="413"
+     inkscape:window-y="139"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14">
+    <inkscape:grid
+       id="grid21"
+       units="px"
+       originx="-34.456444"
+       originy="-64.456444"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="swatch10"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <!-- IBM Colorblind Safe Palette -->
+    <linearGradient
+       id="centerGrad"
+       x1="195"
+       y1="145"
+       x2="305"
+       y2="255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-33.456494,-63.456494)">
+      <stop
+         offset="0"
+         stop-color="#2d2d44"
+         id="stop1"
+         style="stop-color:#000007;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#1a1a2e"
+         id="stop2"
+         style="stop-color:#707070;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <!-- Connection lines -->
+  <!-- Center node -->
+  <text
+     x="215.45555"
+     y="145.54355"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="11px"
+     font-weight="600"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" />
+  <!-- Space (top) -->
+  <!-- Time (right) -->
+  <!-- Modality (bottom) -->
+  <!-- Health (left) -->
+  <line
+     x1="216.5435"
+     y1="80.790855"
+     x2="216.5435"
+     y2="52.0975"
+     id="line2"
+     style="fill:#719f94;stroke:#719f94;stroke-width:2.72488;stroke-dasharray:none;stroke-opacity:0.81353134" />
+  <line
+     x1="270.93634"
+     y1="136.5435"
+     x2="300.39352"
+     y2="136.5435"
+     id="line3"
+     style="fill:#719f94;stroke:#719f94;stroke-width:2.48865;stroke-dasharray:none;stroke-opacity:0.81353134" />
+  <line
+     x1="216.5435"
+     y1="192.29616"
+     x2="216.5435"
+     y2="217.58994"
+     id="line4"
+     style="fill:#719f94;stroke:#719f94;stroke-width:2.55837;stroke-dasharray:none;stroke-opacity:0.81353134" />
+  <line
+     x1="159.43103"
+     y1="136.5435"
+     x2="130.65373"
+     y2="136.5435"
+     id="line5"
+     style="fill:#719f94;stroke:#719f94;stroke-width:2.45976;stroke-dasharray:none;stroke-opacity:0.81353134" />
+  <circle
+     cx="216.5435"
+     cy="136.5435"
+     r="55"
+     fill="url(#centerGrad)"
+     id="circle5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+  <text
+     x="249.91199"
+     y="195"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="11px"
+     font-weight="600"
+     id="text5"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3937px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:78.2806;display:inline"
+     transform="translate(-33.742782,-75.221539)"
+     xml:space="preserve"><tspan
+       x="249.91199"
+       y="195"
+       id="tspan2"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Helvetica Neue, Medium'"
+   id="tspan1">Modeling</tspan> and
+</tspan><tspan
+       x="249.91199"
+       y="208.00812"
+       id="tspan4"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Helvetica Neue, Medium'"
+   id="tspan3">Reasoning</tspan><tspan
+   y="208.00812"
+   id="tspan5"> </tspan></tspan><tspan
+       x="249.91199"
+       y="221.01624"
+       id="tspan6">about Language<tspan
+   y="221.01624"
+   id="tspan7"> </tspan></tspan><tspan
+       x="249.91199"
+       y="234.00837"
+       id="tspan8">as a Dynamic<tspan
+   y="234.00837"
+   id="tspan21"> </tspan></tspan><tspan
+       x="249.91199"
+       y="247.00049"
+       id="tspan22">System</tspan></text>
+  <rect
+     x="151.5435"
+     y="1.543506"
+     width="130"
+     height="50"
+     rx="7.090909"
+     fill="#648fff"
+     id="rect6"
+     style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+  <text
+     x="216.5325"
+     y="23.543505"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="11px"
+     font-weight="600"
+     id="text7"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SPACE</text>
+  <rect
+     x="301.54349"
+     y="111.54351"
+     width="130"
+     height="50"
+     rx="7.090909"
+     fill="#785ef0"
+     id="rect8"
+     style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+  <text
+     x="366.70847"
+     y="127.54351"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="11px"
+     font-weight="600"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TIME</text>
+  <text
+     x="366.48947"
+     y="142.5435"
+     text-anchor="middle"
+     fill="rgba(255,255,255,0.85)"
+     font-size="9px"
+     id="text10"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       sodipodi:role="line"
+       id="tspan15"
+       x="366.48947"
+       y="142.5435">Reconstruction · Lexical</tspan><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="366.48947"
+       y="153.7935">Change ·Emergent Language</tspan></text>
+  <rect
+     x="151.5435"
+     y="219.5435"
+     width="130"
+     height="50"
+     rx="7.090909"
+     fill="#dc267f"
+     id="rect10"
+     style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+  <text
+     x="216.032"
+     y="241.5435"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="11px"
+     font-weight="600"
+     id="text11"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MODALITY</text>
+  <text
+     x="216.41299"
+     y="256.54349"
+     text-anchor="middle"
+     fill="rgba(255,255,255,0.85)"
+     font-size="9px"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Speech · Transcription· Text</text>
+  <rect
+     x="1.543506"
+     y="111.54351"
+     width="130"
+     height="50"
+     rx="7.0909095"
+     fill="#fe6100"
+     id="rect12"
+     style="opacity:0.96;fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+  <text
+     x="66.54351"
+     y="133.5435"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="11px"
+     font-weight="600"
+     id="text13"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ABILITY</text>
+  <text
+     x="66.471504"
+     y="148.5435"
+     text-anchor="middle"
+     fill="rgba(255,255,255,0.85)"
+     font-size="9px"
+     id="text14"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">Speech Disorrders</text>
+  <text
+     x="216.4985"
+     y="38.543507"
+     text-anchor="middle"
+     fill="rgba(255,255,255,0.85)"
+     font-size="9px"
+     id="text15"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Typology · Multilinguality</text>
+  <path
+     style="opacity:0.389456;fill:none;stroke:#6d6e71;stroke-width:2.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2);fill-opacity:1"
+     d="M 149.4394,22.892123 C 68.530066,24.251944 65.81042,109.92065 65.81042,109.92065"
+     id="path1" />
+  <path
+     style="opacity:0.389456;fill:none;stroke:#6d6e71;stroke-width:2.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2);fill-opacity:1"
+     d="m 279.69808,22.892123 c 80.90933,1.359821 83.62898,87.028527 83.62898,87.028527"
+     id="path3" />
+  <path
+     style="opacity:0.389456;fill:none;stroke:#6d6e71;stroke-width:2.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2);fill-opacity:1"
+     d="m 370.87621,162.32893 c -1.35982,80.90933 -87.02853,83.62898 -87.02853,83.62898"
+     id="path4" />
+  <path
+     style="opacity:0.389456;fill:none;stroke:#6d6e71;stroke-width:2.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2);fill-opacity:1"
+     d="m 62.261266,162.32893 c 1.35982,80.90933 87.028534,83.62898 87.028534,83.62898"
+     id="path5" />
+</svg>

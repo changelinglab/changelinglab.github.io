@@ -73,6 +73,13 @@ profiles:
     more_info: >
       <p><strong>Sadhana Panthi</strong></p>
       <p><strong>Collaborator</strong></p>
+  - align: right
+    image: eugene-hwang.jpeg
+    content: about_eugene.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://www.linkedin.com/in/eugene-s-hwang/">Eugene Hwang</a></strong></p>
+      <p><strong>Information Systems Undergrad</strong></p>
   - align: left
     content: about_collaborators.md
   - align: left

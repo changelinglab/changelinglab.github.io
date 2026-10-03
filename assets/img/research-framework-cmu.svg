@@ -8,7 +8,7 @@
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    width="433.08701"
    height="271.08701"
-   inkscape:export-filename="/Users/mortensen/Downloads/mortensen-research-program.png"
+   inkscape:export-filename="mortensen-research-program.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,12 +26,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.08"
-     inkscape:cx="197.35577"
-     inkscape:cy="200.24038"
-     inkscape:window-width="2120"
-     inkscape:window-height="1292"
-     inkscape:window-x="413"
-     inkscape:window-y="139"
+     inkscape:cx="250.48077"
+     inkscape:cy="133.89423"
+     inkscape:window-width="2427"
+     inkscape:window-height="1326"
+     inkscape:window-x="48"
+     inkscape:window-y="99"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg14">
     <inkscape:grid
@@ -182,30 +182,30 @@
      xml:space="preserve"><tspan
        x="249.91199"
        y="195"
-       id="tspan2"><tspan
+       id="tspan10"><tspan
    style="font-weight:500;-inkscape-font-specification:'Helvetica Neue, Medium'"
-   id="tspan1">Modeling</tspan> and
+   id="tspan9">Modeling</tspan> and
 </tspan><tspan
        x="249.91199"
        y="208.00812"
-       id="tspan4"><tspan
+       id="tspan12"><tspan
    style="font-weight:500;-inkscape-font-specification:'Helvetica Neue, Medium'"
-   id="tspan3">Reasoning</tspan><tspan
+   id="tspan11">Reasoning</tspan><tspan
    y="208.00812"
-   id="tspan5"> </tspan></tspan><tspan
+   id="tspan13"> </tspan></tspan><tspan
        x="249.91199"
        y="221.01624"
-       id="tspan6">about Language<tspan
+       id="tspan14">about Language<tspan
    y="221.01624"
-   id="tspan7"> </tspan></tspan><tspan
+   id="tspan17"> </tspan></tspan><tspan
        x="249.91199"
        y="234.00837"
-       id="tspan8">as a Dynamic<tspan
+       id="tspan18">as a Dynamic<tspan
    y="234.00837"
-   id="tspan21"> </tspan></tspan><tspan
+   id="tspan19"> </tspan></tspan><tspan
        x="249.91199"
        y="247.00049"
-       id="tspan22">System</tspan></text>
+       id="tspan20">System</tspan></text>
   <rect
      x="151.5435"
      y="1.543506"
@@ -257,7 +257,7 @@
        sodipodi:role="line"
        id="tspan16"
        x="366.48947"
-       y="153.7935">Change ·Emergent Language</tspan></text>
+       y="153.7935">Change · Emergent Language</tspan></text>
   <rect
      x="151.5435"
      y="219.5435"
@@ -283,7 +283,7 @@
      fill="rgba(255,255,255,0.85)"
      font-size="9px"
      id="text12"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Speech · Transcription· Text</text>
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Speech · Transcription · Text</text>
   <rect
      x="1.543506"
      y="111.54351"
@@ -309,7 +309,7 @@
      fill="rgba(255,255,255,0.85)"
      font-size="9px"
      id="text14"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">Speech Disorrders</text>
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">Speech Disorders</text>
   <text
      x="216.4985"
      y="38.543507"

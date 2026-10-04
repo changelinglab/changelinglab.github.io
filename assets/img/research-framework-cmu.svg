@@ -14,7 +14,20 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .clickable-box {
+      cursor: pointer;
+    }
+    .clickable-box rect {
+      transition: transform 0.15s ease-in-out;
+    }
+    .box-top:hover rect { transform: translateY(3px); }
+    .box-right:hover rect { transform: translateX(-3px); }
+    .box-bottom:hover rect { transform: translateY(-3px); }
+    .box-left:hover rect { transform: translateX(3px); }
+  </style>
   <sodipodi:namedview
      id="namedview14"
      pagecolor="#ffffff"
@@ -26,12 +39,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.08"
-     inkscape:cx="250.48077"
+     inkscape:cx="252.40385"
      inkscape:cy="133.89423"
-     inkscape:window-width="2427"
-     inkscape:window-height="1326"
-     inkscape:window-x="48"
-     inkscape:window-y="99"
+     inkscape:window-width="1352"
+     inkscape:window-height="820"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg14">
     <inkscape:grid
@@ -182,142 +195,150 @@
      xml:space="preserve"><tspan
        x="249.91199"
        y="195"
-       id="tspan10"><tspan
+       id="tspan2"><tspan
    style="font-weight:500;-inkscape-font-specification:'Helvetica Neue, Medium'"
-   id="tspan9">Modeling</tspan> and
+   id="tspan1">Modeling</tspan> and
 </tspan><tspan
        x="249.91199"
        y="208.00812"
-       id="tspan12"><tspan
+       id="tspan4"><tspan
    style="font-weight:500;-inkscape-font-specification:'Helvetica Neue, Medium'"
-   id="tspan11">Reasoning</tspan><tspan
+   id="tspan3">Reasoning</tspan><tspan
    y="208.00812"
-   id="tspan13"> </tspan></tspan><tspan
+   id="tspan5"> </tspan></tspan><tspan
        x="249.91199"
        y="221.01624"
-       id="tspan14">about Language<tspan
+       id="tspan6">about Language<tspan
    y="221.01624"
-   id="tspan17"> </tspan></tspan><tspan
+   id="tspan7"> </tspan></tspan><tspan
        x="249.91199"
        y="234.00837"
-       id="tspan18">as a Dynamic<tspan
+       id="tspan8">as a Dynamic<tspan
    y="234.00837"
-   id="tspan19"> </tspan></tspan><tspan
+   id="tspan21"> </tspan></tspan><tspan
        x="249.91199"
        y="247.00049"
-       id="tspan20">System</tspan></text>
-  <rect
-     x="151.5435"
-     y="1.543506"
-     width="130"
-     height="50"
-     rx="7.090909"
-     fill="#648fff"
-     id="rect6"
-     style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
-  <text
-     x="216.5325"
-     y="23.543505"
-     text-anchor="middle"
-     fill="#ffffff"
-     font-size="11px"
-     font-weight="600"
-     id="text7"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SPACE</text>
-  <rect
-     x="301.54349"
-     y="111.54351"
-     width="130"
-     height="50"
-     rx="7.090909"
-     fill="#785ef0"
-     id="rect8"
-     style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
-  <text
-     x="366.70847"
-     y="127.54351"
-     text-anchor="middle"
-     fill="#ffffff"
-     font-size="11px"
-     font-weight="600"
-     id="text9"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TIME</text>
-  <text
-     x="366.48947"
-     y="142.5435"
-     text-anchor="middle"
-     fill="rgba(255,255,255,0.85)"
-     font-size="9px"
-     id="text10"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
-       sodipodi:role="line"
-       id="tspan15"
+       id="tspan22">System</tspan></text>
+  <a xlink:href="/projects/#space" target="_top" class="clickable-box box-top">
+    <rect
+       x="151.5435"
+       y="1.543506"
+       width="130"
+       height="50"
+       rx="7.090909"
+       fill="#648fff"
+       id="rect6"
+       style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+    <text
+       x="216.5325"
+       y="23.543505"
+       text-anchor="middle"
+       fill="#ffffff"
+       font-size="11px"
+       font-weight="600"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SPACE</text>
+    <text
+       x="216.4985"
+       y="38.543507"
+       text-anchor="middle"
+       fill="rgba(255,255,255,0.85)"
+       font-size="9px"
+       id="text15"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Typology · Multilinguality</text>
+  </a>
+  <a xlink:href="/projects/#time" target="_top" class="clickable-box box-right">
+    <rect
+       x="301.54349"
+       y="111.54351"
+       width="130"
+       height="50"
+       rx="7.090909"
+       fill="#785ef0"
+       id="rect8"
+       style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+    <text
+       x="366.70847"
+       y="127.54351"
+       text-anchor="middle"
+       fill="#ffffff"
+       font-size="11px"
+       font-weight="600"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TIME</text>
+    <text
        x="366.48947"
-       y="142.5435">Reconstruction · Lexical</tspan><tspan
-       sodipodi:role="line"
-       id="tspan16"
-       x="366.48947"
-       y="153.7935">Change · Emergent Language</tspan></text>
-  <rect
-     x="151.5435"
-     y="219.5435"
-     width="130"
-     height="50"
-     rx="7.090909"
-     fill="#dc267f"
-     id="rect10"
-     style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
-  <text
-     x="216.032"
-     y="241.5435"
-     text-anchor="middle"
-     fill="#ffffff"
-     font-size="11px"
-     font-weight="600"
-     id="text11"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MODALITY</text>
-  <text
-     x="216.41299"
-     y="256.54349"
-     text-anchor="middle"
-     fill="rgba(255,255,255,0.85)"
-     font-size="9px"
-     id="text12"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Speech · Transcription · Text</text>
-  <rect
-     x="1.543506"
-     y="111.54351"
-     width="130"
-     height="50"
-     rx="7.0909095"
-     fill="#fe6100"
-     id="rect12"
-     style="opacity:0.96;fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
-  <text
-     x="66.54351"
-     y="133.5435"
-     text-anchor="middle"
-     fill="#ffffff"
-     font-size="11px"
-     font-weight="600"
-     id="text13"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ABILITY</text>
-  <text
-     x="66.471504"
-     y="148.5435"
-     text-anchor="middle"
-     fill="rgba(255,255,255,0.85)"
-     font-size="9px"
-     id="text14"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">Speech Disorders</text>
-  <text
-     x="216.4985"
-     y="38.543507"
-     text-anchor="middle"
-     fill="rgba(255,255,255,0.85)"
-     font-size="9px"
-     id="text15"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Typology · Multilinguality</text>
+       y="142.5435"
+       text-anchor="middle"
+       fill="rgba(255,255,255,0.85)"
+       font-size="9px"
+       id="text10"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         x="366.48947"
+         y="142.5435">Reconstruction · Lexical</tspan><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="366.48947"
+         y="153.7935">Change · Emergent Language</tspan></text>
+  </a>
+  <a xlink:href="/projects/#modality" target="_top" class="clickable-box box-bottom">
+    <rect
+       x="151.5435"
+       y="219.5435"
+       width="130"
+       height="50"
+       rx="7.090909"
+       fill="#dc267f"
+       id="rect10"
+       style="fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+    <text
+       x="216.032"
+       y="241.5435"
+       text-anchor="middle"
+       fill="#ffffff"
+       font-size="11px"
+       font-weight="600"
+       id="text11"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MODALITY</text>
+    <text
+       x="216.41299"
+       y="256.54349"
+       text-anchor="middle"
+       fill="rgba(255,255,255,0.85)"
+       font-size="9px"
+       id="text12"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Speech · Transcription · Text</text>
+  </a>
+  <a xlink:href="/projects/#ability" target="_top" class="clickable-box box-left">
+    <rect
+       x="1.543506"
+       y="111.54351"
+       width="130"
+       height="50"
+       rx="7.0909095"
+       fill="#fe6100"
+       id="rect12"
+       style="opacity:0.96;fill:#c41230;fill-opacity:1;stroke:#c41230;stroke-width:1.08711;stroke-opacity:1" />
+    <text
+       x="66.54351"
+       y="133.5435"
+       text-anchor="middle"
+       fill="#ffffff"
+       font-size="11px"
+       font-weight="600"
+       id="text13"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ABILITY</text>
+    <text
+       x="66.471504"
+       y="148.5435"
+       text-anchor="middle"
+       fill="rgba(255,255,255,0.85)"
+       font-size="9px"
+       id="text14"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">Speech Disorders</text>
+  </a>
   <path
      style="opacity:0.389456;fill:none;stroke:#6d6e71;stroke-width:2.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2);fill-opacity:1"
      d="M 149.4394,22.892123 C 68.530066,24.251944 65.81042,109.92065 65.81042,109.92065"

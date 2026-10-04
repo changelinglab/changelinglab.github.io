@@ -12,7 +12,7 @@ profiles:
     content: about_david.md
     image_circular: true
     more_info: >
-      <p><strong><a href="https://cs.cmu.edu/~dmortens/">David R. Mortensen</a></strong></p>
+      <p><strong><a href="https://www.cs.cmu.edu/~dmortens/">David R. Mortensen</a></strong></p>
       <p><strong>Associate Research Professor</strong></p>
       <p>GHC 5407</p>
       <p>5000 Forbes Ave</p>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FBCC Benchmark
+title: PBEBench and ReaComp
 description: Evaluating the ability of code language models to generalize and plan based on examples
 img: assets/img/proj/luzern-bridge2-proj.jpg
-importance: 2
-category: llm
+importance: 1
+category: reasoning
 ---
 
 Introductory historical linguistics students are often asked to determine the relative chronology of sound changes—changes in pronunciation acting  like regular-expression replacements that apply across the whole vocabulary of the language. These sound changes can interact in found different ways that constrain their relative chronology:

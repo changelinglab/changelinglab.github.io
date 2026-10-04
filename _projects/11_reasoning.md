@@ -4,7 +4,7 @@ title: Implicit and Explicit Reasoning in LLMs
 description: Do LLMs introspect?
 img: assets/img/proj/luzern-lake-proj.jpg
 importance: 2
-category: llm
+category: old
 ---
 
 Humans can reason. When humans are asked to provide an explicit explanation of how they reached a conclusion, they often generate responses that are not compatible with the implicit reasoning not guides their actual behavior. This means that humans have limited metacognitive abilities.

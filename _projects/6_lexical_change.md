@@ -3,8 +3,8 @@ layout: page
 title: Lexical Change
 description: Corpus approaches to changes in lexicons
 img: assets/img/proj/basel-sky-proj.jpg
-importance: 4
-category: diachronic
+importance: 2
+category: time
 related_publications: true
 ---
 

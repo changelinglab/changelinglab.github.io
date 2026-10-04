@@ -4,7 +4,7 @@ title: Systematic Relationships for Improved ASR
 description: Better ASR for low resource varieties
 img: assets/img/proj/fribourg-cathedral-proj.jpg
 importance: 1
-category: speech
+category: space
 related_publications: true
 ---
 

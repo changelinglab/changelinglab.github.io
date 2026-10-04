@@ -4,7 +4,7 @@ title: Agentic Comparative Reconstruction
 description: Work on developing models and agentic frameworks that reconstruct protolanguages based on collections of cognate sets
 img: assets/img/proj/basel-muenster-proj.jpg
 importance: 1
-category: diachronic
+category: time
 related_publications: true
 ---
 In the 19th century, European philologists made a discovery that would change the direction of the human sciences: they discovered that languages change in systematic ways and that, by leveraging these systematic patterns, it was possible to reproducibly reconstruct ancestors of families of languages (proto-languages) even when no record of those languages survived. This technique, called the comparative method, provided an unprecedented window into the human past—its cultures, its migrations, and its encounters between populations.

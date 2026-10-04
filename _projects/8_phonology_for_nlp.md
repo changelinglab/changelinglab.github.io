@@ -4,7 +4,7 @@ title: Phonological Representations for NLP
 description: Leveraging phonological representations for NLP tasks
 img: assets/img/proj/thurgau-apple-blossoms.jpg
 importance: 1
-category: phonology
+category: modality
 related_publications: true
 ---
 

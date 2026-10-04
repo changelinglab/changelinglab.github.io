@@ -4,7 +4,7 @@ title: Universal Phone Recognition
 description: Recognizing phonetic units in a language-neural fashion
 img: assets/img/proj/gruyere-tower-proj.jpg
 importance: 1
-category: speech
+category: modality
 related_publications: true
 ---
 

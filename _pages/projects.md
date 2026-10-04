@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing ChangeLing Lab Projects
 nav: true
 nav_order: 3
-display_categories: [diachronic, emergent, speech, phonology, llm]
+display_categories: [time, space, modality, ability, reasoning]
 horizontal: false
 ---
 

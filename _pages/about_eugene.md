@@ -1,0 +1,1 @@
+Eugene Hwang is a sophomore studying Information Systems, with plans to double major in Computer Science. He is interested in studying lexical change with natural language processing and machine learning. He is currently working on a project investigating and improving large language models' ability to date texts from linguistic cues rather than memorization.

@@ -32,33 +32,19 @@ profiles:
       <p><strong><a href="https://chinjouli.github.io/mysite/">Chin-Jou Li</a></strong></p>
       <p><strong>PhD Student</strong></p>
   - align: right
-    image: john-ternullo.jpg
-    content: about_john.md
-    image_circular: true
-    more_info: >
-      <p><strong>John Ternullo</a></strong></p>
-      <p><strong>5LT Student</strong></p>
-  - align: left
     image: atharva-naik.jpg
     content: about_atharva.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://atharva-naik.github.io/">Atharva Naik</a></strong></p>
       <p><strong>PhD Student</strong></p>
-  - align: right
-    image: ivan-zhang.jpg
-    content: about_ivan.md
-    image_circular: true
-    more_info: >
-      <p><strong>Ivan Zhang</a></strong></p>
-      <p><strong>SCS Undergrad</strong></p>
   - align: left
-    image: daniel-xu.jpg
-    content: about_daniel.md
+    image: john-ternullo.jpg
+    content: about_john.md
     image_circular: true
     more_info: >
-      <p><strong><a href="https://github.com/dxu-18">Daniel Xu</strong></p>
-      <p><strong>Undergraduate</strong></p>
+      <p><strong>John Ternullo</a></strong></p>
+      <p><strong>5LT Student</strong></p>
   - align: right
     image: thomas-pei.jpg
     content: about_thomas.md
@@ -67,19 +53,33 @@ profiles:
       <p><strong><a href="https://github.com/TP080419">Thomas Pei</a></strong></p>
       <p><strong>Master's Student</strong></p>
   - align: left
-    image: collabs/sadhana-panthi.jpg
-    content: about_sadhana_panthi.md
+    image: ivan-zhang.jpg
+    content: about_ivan.md
     image_circular: true
     more_info: >
-      <p><strong>Sadhana Panthi</strong></p>
-      <p><strong>Collaborator</strong></p>
+      <p><strong>Ivan Zhang</a></strong></p>
+      <p><strong>SCS Undergrad</strong></p>
   - align: right
+    image: daniel-xu.jpg
+    content: about_daniel.md
+    image_circular: true
+    more_info: >
+      <p><strong><a href="https://github.com/dxu-18">Daniel Xu</strong></p>
+      <p><strong>Linguistics Undergrad</strong></p>
+  - align: left
     image: eugene-hwang.jpeg
     content: about_eugene.md
     image_circular: true
     more_info: >
       <p><strong><a href="https://www.linkedin.com/in/eugene-s-hwang/">Eugene Hwang</a></strong></p>
       <p><strong>Information Systems Undergrad</strong></p>
+  - align: right
+    image: sadhana-panthi.jpg
+    content: about_sadhana.md
+    image_circular: true
+    more_info: >
+      <p><strong>Sadhana Panthi</strong></p>
+      <p><strong>Remote Collaborator</strong></p>
   - align: left
     content: about_collaborators.md
   - align: left

@@ -4,14 +4,14 @@ title: About
 permalink: /
 subtitle: Language Change and Empirical Linguistics at CMU
 
-profile:
-  align: right
-  image: changeling-logo.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>5407 Gates Hillman Complex</p>
-    <p>Language Technologies Institute</p>
-    <p>Carnegie Mellon University</p>
+# profile:
+#   align: right
+#   image: changeling-logo.png
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>5407 Gates Hillman Complex</p>
+#     <p>Language Technologies Institute</p>
+#     <p>Carnegie Mellon University</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,11 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 ChangeLing Lab is Carnegie Mellon University's only research lab focused on understanding how languages change, and how these patterns of change shape the way that languages are at any given point in time, **from a computational perspective**. We are interested in phonetics, phonology, and morphology (whether diachronic or synchronic), emergent communication, and have a special concern for the use of language science to benefit people with disabilities and language disorders.
 
-ChangeLing is lead by [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/), an Associate Research Professor in the Language Technologies Institute. It consists, additionally, of graduate students, former LTI students who still collaborate with David, and visitors.
+ChangeLing is lead by [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/), an Associate Research Professor in the [Language Technologies Institute](https://www.lti.cs.cmu.edu/). It consists, additionally, of graduate students, former LTI students who still collaborate with David, and visitors.
 
 <object type="image/svg+xml" data="/assets/img/research-framework-cmu.svg"
         aria-label="Research Framework: Modeling and Reasoning about Language as a Dynamic System"
-        style="float: left; width: 50%; height: auto; margin: 0.25em 1.5em 1em 0;">
+        style="display: block; width: 50%; height: auto; margin: 1em auto;">
   <img src="/assets/img/research-framework-cmu.svg" alt="Research Framework: Modeling and Reasoning about Language as a Dynamic System">
 </object>
 

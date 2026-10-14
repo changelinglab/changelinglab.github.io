@@ -84,6 +84,13 @@ profiles:
     content: about_collaborators.md
   - align: left
     content: about_alumni.md
+  - align: right
+    image: rithvik-senthil.jpg
+    content: about_rithvik.md
+    image_circular: true
+    more_info: >
+      <p><strong>Rithvik Senthil</strong></p>
+      <p><strong>2025 MCDS alumni, LTI</strong></p>
 ---
 
 # profiles:

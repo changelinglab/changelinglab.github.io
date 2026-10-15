@@ -1,1 +1,1 @@
-Rithvik is an applied ML scientist at Blue Origin, where he leads efforts to make rocket factories more efficient by building and scaling agentic systems. His interests range from social NLP all the way to reconstructing lost languages.
+Based out of Seattle, Rithvik is an applied ML scientist at Blue Origin, where he leads efforts to make rocket factories more efficient by building and scaling agentic systems. His interests range from social NLP all the way to reconstructing lost languages.
